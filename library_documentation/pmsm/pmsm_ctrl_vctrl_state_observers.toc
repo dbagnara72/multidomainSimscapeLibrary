@@ -1,0 +1,18 @@
+\babel@toc {american}{}\relax 
+\contentsline {section}{\numberline {1}PMSM machine based model derivation}{4}{}%
+\contentsline {section}{\numberline {2}PMSM control based model derivation}{7}{}%
+\contentsline {subsection}{\numberline {2.1}PMSM model respect to a stationary reference frame}{7}{}%
+\contentsline {subsection}{\numberline {2.2}PMSM model respect to a rotating reference frame}{9}{}%
+\contentsline {subsection}{\numberline {2.3}PMSM torque derivation}{13}{}%
+\contentsline {subsection}{\numberline {2.4}Equivalent circuit of a PMSM}{16}{}%
+\contentsline {section}{\numberline {3}Control of a PMSM}{16}{}%
+\contentsline {subsection}{\numberline {3.1}Classical Field Oriented Control of a PMSM}{17}{}%
+\contentsline {subsection}{\numberline {3.2}Normalization and control implementation.}{18}{}%
+\contentsline {subsection}{\numberline {3.3}PMSM current loci and over-speed management}{20}{}%
+\contentsline {subsection}{\numberline {3.4}Robust field weakening control architecture}{23}{}%
+\contentsline {section}{\numberline {4}Parameters identification}{24}{}%
+\contentsline {subsection}{\numberline {4.1}No-load test}{24}{}%
+\contentsline {subsection}{\numberline {4.2}Terminals short circuit test}{25}{}%
+\contentsline {subsection}{\numberline {4.3}Load test}{25}{}%
+\contentsline {section}{\numberline {5}Model parameters settings}{26}{}%
+\contentsline {section}{\numberline {6}Model output variables}{27}{}%

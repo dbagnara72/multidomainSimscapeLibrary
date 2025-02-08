@@ -1,0 +1,24 @@
+\babel@toc {american}{}\relax 
+\contentsline {chapter}{\numberline {1}CLL--ZCS Resonant Converter}{6}{}%
+\contentsline {section}{\numberline {1.1}Model Description}{7}{}%
+\contentsline {subsection}{\numberline {1.1.1}Modulation Strategy}{9}{}%
+\contentsline {chapter}{\numberline {2}Harmonics Compensator}{11}{}%
+\contentsline {section}{\numberline {2.1}Algorithm Description}{11}{}%
+\contentsline {section}{\numberline {2.2}Implementation}{13}{}%
+\contentsline {chapter}{\numberline {3}Simulation Results}{15}{}%
+\contentsline {section}{\numberline {3.1}CLL--ZCS Simulation Data}{15}{}%
+\contentsline {section}{\numberline {3.2}Case study 1}{15}{}%
+\contentsline {section}{\numberline {3.3}Case study 2}{17}{}%
+\contentsline {section}{\numberline {3.4}Case study 3}{18}{}%
+\contentsline {section}{\numberline {3.5}Case study 4}{20}{}%
+\contentsline {section}{\numberline {3.6}Case study 5}{21}{}%
+\contentsline {section}{\numberline {3.7}Case study 6}{23}{}%
+\contentsline {chapter}{\numberline {4}Phase Locked-Loop (PLL) Architecture}{25}{}%
+\contentsline {section}{\numberline {4.1}Three-Phase Systems under Unbalanced Conditions}{25}{}%
+\contentsline {section}{\numberline {4.2}Synchronous Reference Frame PLL (SRF-PLL)}{27}{}%
+\contentsline {section}{\numberline {4.3}Decoupled Double Synchronous Reference Frame PLL (DDSRF-PLL)}{28}{}%
+\contentsline {subsection}{\numberline {4.3.1}Double synchronous reference frame}{28}{}%
+\contentsline {subsection}{\numberline {4.3.2}Decoupling network}{29}{}%
+\contentsline {subsection}{\numberline {4.3.3}Analysis of the DDSRF}{32}{}%
+\contentsline {subsection}{\numberline {4.3.4}Structure of the DDSRF-PLL}{35}{}%
+\contentsline {section}{\numberline {4.4}Simulation Results}{36}{}%

@@ -1,0 +1,108 @@
+	%\documentclass[11pt,a4paper]{article}
+\documentclass[11pt,a4paper]{scrartcl}
+%\documentclass[11pt,a4paper]{scrartcl}
+\usepackage[british,UKenglish,USenglish,english,american]{babel}
+%\usepackage[a4paper, total={16cm, 23cm}]{geometry}
+\usepackage[tmargin=1.25in,bmargin=1.25in,lmargin=1in,rmargin=1in]{geometry}
+\usepackage{tikz}
+\usepackage{graphicx}
+
+\usepackage{chemmacros}
+\usepackage{chemfig}
+%\usepackage{ghsystem}
+\usechemmodule{redox}
+%\usepackage{chemnum}
+%\usepackage{bohr}
+%\usepackage{elements}
+%\usepackage{endiagram}
+%\usepackage{modiagram}
+%\usepackage{chemgreek}
+\usepackage{mhchem}
+
+
+\usepackage{makeidx}
+\usepackage{epstopdf}
+
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+%\usepackage{minted}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage[english]{varioref}
+\usepackage[english]{babel}
+\usepackage{lipsum}
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\usepackage{float}
+\usepackage{empheq}
+\usepackage[framemethod=tikz]{mdframed}
+\usepackage{epstopdf}
+\numberwithin{equation}{section}
+\usepackage{eso-pic}
+\usepackage{calc}
+\usepackage{nccmath}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{gensymb}
+\usepackage{amsfonts,amsthm,epsfig,epstopdf,titling,url,array}
+\usepackage{siunitx}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{boondox-cal}
+\DeclareSIUnit\atm{atm}
+
+\fancypagestyle{firstpage}{
+	\rhead{\begin{picture}(0,0) \put(-30,0){\includegraphics[width=1cm]{figures/MCI_4C_bw.eps}} \end{picture}}
+}
+\lhead{\textit{Theory of Electromechanical Energy Conversion}}
+\chead{}
+\rhead{\begin{picture}(0,0) \put(-30,0){\includegraphics[width=1cm]{figures/MCI_4C_bw.eps}} \end{picture}}
+\lfoot{\textit{Spring 2021}}
+\cfoot{-\ \thepage\ -}
+\rfoot{\textit{}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\newcommand{\abs}[1]{\left|#1\right|}
+\definecolor{mycolor1}{rgb}{0.95, 0.95, 0.95}
+\definecolor{mycolor2}{rgb}{0.95, 0.95, 0.95}
+\newcommand{\sign}{\text{sign}}
+\theoremstyle{it}
+\newtheorem{defn}{Definition}[section]
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{lemma}{Lemma}[section]
+\theoremstyle{definition}
+\theoremstyle{it}
+\newtheorem{example}{Example}[section]
+
+
+\newmdenv[innerlinewidth=0.5pt, roundcorner=4pt,backgroundcolor=mycolor2, linecolor=mycolor1,innerleftmargin=6pt,
+innerrightmargin=6pt,innertopmargin=6pt,innerbottommargin=6pt]{mybox}
+
+\title{Theory of Electromechanical Energy Conversion}
+\author{Davide Bagnara}
+
+\begin{document}
+	\maketitle
+	\thispagestyle{firstpage}
+	\tableofcontents
+	\listoffigures	
+	\listoftables		
+
+\section{Introduction.} 
+This lecture covers the topic regarding the adaptive control. In particular we will focus on \textit{Model Reference Adaptive Control} in which a reference model is taken as benchmark and a defined set of parameters are adapted in order to keep the answer of the system close to the reference one. Most of the material presented here is taken from \cite{p18}, \cite{p25} and \cite{p23}.
+
+
+\begin{thebibliography}{99}
+	\bibitem[\textbf{A. Mehrle, 2020}]{p1} Andreas Mehrle - \textit{Advanced Control Engineering}. MCI 2020.
+	\bibitem[\textbf{G. Tao 2003}]{p18} G. Tao - \textit{Adaptive Control Design and Analysis}. Wiley-Interscience 2003.
+	\bibitem[\textbf{M. Sunwoo 1991}]{p19} M. Sunwoo, Ka C. Cheok, N. J. Huang - \textit{Model Reference Adaptive Control for Vehicle Active Suspension Systems}. IEEE Transaction on industrial electronics 1991.		
+	\bibitem[\textbf{H. K. Khalil 2002}]{p22} H. K. Khalil - \textit{Nonlinear Systems}. Third edition, Prentice Hall 2002.
+	\bibitem[\textbf{J.J.E. Slotine 1991}]{p23} J.J.E. Slotine, W. Li - \textit{Applied Nonlinear Control}. Prentice Hall 1991.
+	\bibitem[\textbf{D.R. Merkin 1996}]{p24} D.R. Merkin - \textit{Introduction to the Theory of Stability}. Springer Hall 1993.
+	\bibitem[\textbf{P.A. Ioannou 2012}]{p25} P.A. Ioannou, J. Sun - \textit{Robust Adaptive Control}. Dover 2012.
+\end{thebibliography}
+
+	
+%\end{enumerate}
+
+\end{document} 

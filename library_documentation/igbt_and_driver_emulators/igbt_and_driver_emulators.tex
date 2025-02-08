@@ -1,0 +1,196 @@
+\documentclass[11pt,a4paper]{article}
+%\documentclass[11pt,a4paper]{scrartcl}
+\documentclass[11pt,a4paper,oneside]{book}
+\usepackage[british,UKenglish,USenglish,english,american]{babel}
+%\usepackage[a4paper, total={16cm, 23cm}]{geometry}
+\usepackage[tmargin = 1.25in,bmargin = 1.25in,lmargin = 1in,rmargin = 
+1in]{geometry}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{pgfplots}
+\pgfplotsset{width=12cm,compat=1.9}
+\usepackage{setspace}
+\usepackage{chemmacros}
+\usepackage{chemfig}
+%\usepackage{ghsystem}
+%\usechemmodule{redox}
+%\usepackage{chemnum}
+%\usepackage{bohr}
+%\usepackage{elements}
+%\usepackage{endiagram}
+%\usepackage{modiagram}
+%\usepackage{chemgreek}
+%\usepackage{mhchem}
+\usepackage{esint}
+\usepackage{tabularray}
+
+\usepackage{multirow} % For multirows
+\usepackage{amssymb} % For the checkmark
+\usepackage{graphicx} % For the rotation
+\usepackage{array} % To enlarge the vertical space of the table's contents
+
+\usepackage{makecell}
+
+\usepackage{booktabs}
+\usepackage{siunitx}
+
+\usepackage{makeidx}
+\usepackage{epstopdf}
+
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+%\usepackage{minted}
+\usepackage{bm}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage[english]{varioref}
+\usepackage[english]{babel}
+\usepackage{lipsum}
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\usepackage{float}
+\usepackage{empheq}
+\usepackage[framemethod=tikz]{mdframed}
+\usepackage{epstopdf}
+\numberwithin{equation}{section}
+\usepackage{eso-pic}
+\usepackage{calc}
+\usepackage{nccmath}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{gensymb}
+\usepackage{amsfonts,amsthm,epsfig,epstopdf,titling,url,array}
+\usepackage{siunitx}
+\sisetup{input-digits = 0123456789\pi}
+\usepackage[symbol]{footmisc}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{boondox-cal}
+\DeclareSIUnit\atm{atm}
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+\usepackage{booktabs}
+\usepackage{blindtext}
+\usepackage{changepage}
+
+% \usepackage{draftwatermark}
+% \SetWatermarkText{DRAFT}
+% \SetWatermarkScale{5}
+
+\DeclareSIUnit\atm{atm}
+
+\pagestyle{fancy} 
+\fancypagestyle{firstpage}{
+	\rhead{
+		%	\begin{picture}(0,0) 
+			%			\put(-30,0){\includegraphics[width=1cm]{figures/MCI_4C_bw.eps}} 
+			%	\end{picture}
+	}
+}
+\fancyhead[L]{\slshape\nouppercase{\leftmark}}
+\chead{}
+\rhead{
+	%	\begin{picture}(0,0) 
+		%		\put(-30,0){\includegraphics[width=1cm]{figures/MCI_4C_bw.eps}} 
+		%	\end{picture}
+}
+\lfoot{\textit{}}
+\cfoot{-\ \thepage\ -}
+\rfoot{\textit{}}
+
+\DeclareMathOperator{\rank}{rank}
+\DeclareMathOperator{\atantwo}{atan2}
+\DeclareMathOperator{\spn}{span}
+
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\newcommand{\abs}[1]{\left|#1\right|}
+\definecolor{mycolor1}{rgb}{0.97, 0.97, 0.97}
+\definecolor{mycolor2}{rgb}{0.97, 0.97, 0.97}
+\definecolor{tableShade}{gray}{0.9}
+\newcommand{\sign}{\text{sign}}
+\newcommand{\centered}[1]{\begin{tabular}{@{}l@{}} #1 \end{tabular}}
+\theoremstyle{it}
+\newtheorem{defn}{Definition}[chapter]
+\newtheorem{assumption}{Assumption}[chapter]
+\newtheorem{thm}{Theorem}[chapter]
+\newtheorem{lemma}{Lemma}[chapter]
+\newtheorem{corollary}{Corollary}[chapter]
+%\newtheorem{defn}{Definition}[section]
+%\newtheorem{assumption}{Assumption}[section]
+%\newtheorem{thm}{Theorem}[section]
+%\newtheorem{lemma}{Lemma}[section]
+%\newtheorem{corollary}{Corollary}[section]
+\theoremstyle{definition}
+%\theoremstyle{it}
+\newtheorem{example}{Example}[section]
+
+\newenvironment{myitemize_1}
+{ \begin{itemize}[topsep=0pt]
+		\setlength{\topsep}{2pt}		
+		\setlength{\itemsep}{2pt}
+		\setlength{\parskip}{2pt}
+		\setlength{\parsep}{2pt}     }
+	{ \end{itemize}                  }
+
+
+
+\newmdenv[innerlinewidth=0.5pt, roundcorner=4pt,backgroundcolor=mycolor2, 
+linecolor=mycolor1,innerleftmargin=6pt,
+innerrightmargin=6pt,innertopmargin=6pt,innerbottommargin=6pt]{mybox}
+
+\title{\textbf{ 
+		\begin{LARGE}
+			DriverBoard Test Evaluation
+		\end{LARGE} \\[24pt]
+		\begin{Large}
+			Preliminary wishes
+	\end{Large}}
+}
+\author{Davide Bagnara, Gernot Landskron}
+
+\begin{document}
+	\begin{onehalfspace}
+		\thispagestyle{firstpage}
+		\begin{mybox}
+			\maketitle
+			\vspace{110mm}
+		\end{mybox}
+		\newpage
+		\tableofcontents
+		\listoffigures	
+		\listoftables
+		\newpage
+		
+		\chapter{Introduction}	
+		In the following chapter a brief introduction to the Flying Basket firmware implementation is reported. Figure~\ref{electrical_circuit_3} shows the fundamental system architecture. From \textbf{functionality} point of view it is possible to select the following main structures:
+		\begin{itemize}
+			\item[--] power stage (inverter, dclink, motor);
+			\item[--] auxiliary power supply, gate drivers, high side voltage and current measure systems;
+			\item[--] low side voltage and current measure conditioning and hardware protections;
+			\item[--] $\mu$-processor based control architecture;
+			\item[--] field bus communication (interface to external environment).
+		\end{itemize} 
+		Before to proceed forward a short list of symbols and acronyms used in this document is reported, as follows:
+		\begin{itemize}
+			\item[--] 	OCP: over-current protection.
+			\item[--]	DMA: direct memory access.
+			\item[--]   ADC: analog to digital converter.	
+			\item[--] 	DAC: digital to analog converter.
+			\item[--] 	GPIO: general purpose I/O.	
+			\item[--] 	SVPWM: space vector pulse-width modulation.
+			\item[--] 	PMSM: permanent magnet synchronous motor.	
+			\item[--] 	MTPA: max torque per ampere.
+			\item[--] 	TIMx: timers available into microcontroller.
+			\item[--] 	HAL: hardware abstraction layer.
+			\item[--] 	n.a.: not applicable.
+		\end{itemize}
+
+		
+		\clearpage
+		\begin{thebibliography}{99}
+			\bibitem{volke} 
+			A. Volke, M. Hornkamp, \emph{IGBT Modules. Technologies, Driver and Application}. Infineon 2011.			
+		\end{thebibliography}
+	\end{onehalfspace}
+\end{document} 

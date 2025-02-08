@@ -1,0 +1,22 @@
+\babel@toc {american}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Basic structure of a PLL.\relax }}{7}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Block diagram of an elementary \textit {PLL}.\relax }}{7}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Small signal model of an elementary \textit {PLL}.\relax }}{8}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Voltage controlled oscillator based on a adaptive filter.\relax }}{9}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Quadrature signal generator based on a adaptive filter.\relax }}{10}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Second order adaptive filter based on an second order generalized integrator and a quadrature signal generator (\textit {SOGI-QSG}).\relax }}{11}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Diagram of the \textit {SOGI}-based \textit {PLL} (\textit {SOGI-QSG}).\relax }}{11}{}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Bode diagram of the \textit {SOGI-QSG} response.\relax }}{12}{}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces PLL based on the on direct and inverse Park transform.\relax }}{12}{}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Equivalent block diagram of the PLL based on the on direct and inverse Park transform.\relax }}{12}{}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Bode diagram of the \textit {QSG-PLL} based on direct and inverse Parck transform.\relax }}{13}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Principle of the moving average filter.\relax }}{14}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Algorithm description for not integer $t_s$ overlapping of the signal period.\relax }}{15}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Buffer management of the moving average filter.\relax }}{16}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Description of the experiment.\relax }}{20}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Hardware configuration of the experiment.\relax }}{21}{}%
+\addvspace {10\p@ }

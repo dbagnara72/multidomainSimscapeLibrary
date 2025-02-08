@@ -1,0 +1,13 @@
+\babel@toc {american}{}\relax 
+\contentsline {section}{\numberline {1}Description}{3}{}%
+\contentsline {section}{\numberline {2}Equations}{4}{}%
+\contentsline {section}{\numberline {3}Fundamental of PEM fuel cell}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Background on electrochemical process}{8}{}%
+\contentsline {subsection}{\numberline {3.2}The Nernst equation}{12}{}%
+\contentsline {subsection}{\numberline {3.3}Dynamic model of PEM fuel-cell}{13}{}%
+\contentsline {subsection}{\numberline {3.4}Material conservation}{16}{}%
+\contentsline {subsection}{\numberline {3.5}PEM-FC output voltage}{18}{}%
+\contentsline {subsection}{\numberline {3.6}PEM-FC model structure}{22}{}%
+\contentsline {subsection}{\numberline {3.7}The whole mathematical model of the PEM-FC}{23}{}%
+\contentsline {section}{\numberline {4}Model parameters settings}{24}{}%
+\contentsline {section}{\numberline {5}Model output variables}{25}{}%

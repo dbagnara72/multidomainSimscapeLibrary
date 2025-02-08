@@ -1,0 +1,38 @@
+\babel@toc {american}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces CLL--ZCS resonant converter.\relax }}{8}{}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Resonance circuit analysis as function of the load.\relax }}{10}{}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Description of the modulation law.\relax }}{10}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Description of the harmonic estimator based on Kalman filter state observer.\relax }}{12}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Harmonic estimator based on steady state Kalman filter state observer.\relax }}{13}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Global control architecture for \textit {CLL-ZCS} converter with harmonic load compensator.\relax }}{14}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Grid voltage used for the simulation.\relax }}{16}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Simulation results - case study 1.\relax }}{16}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Simulation results - case study 1.\relax }}{17}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Grid voltage used for the simulation.\relax }}{17}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Simulation results - case study 2.\relax }}{18}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Simulation results - case study 2.\relax }}{18}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Grid voltage used for the simulation.\relax }}{19}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Simulation results - case study 3.\relax }}{19}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Simulation results - case study 3.\relax }}{20}{}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Grid voltage used for the simulation.\relax }}{20}{}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Simulation results - case study 4.\relax }}{21}{}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Simulation results - case study 4.\relax }}{21}{}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Grid voltage used for the simulation.\relax }}{22}{}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Simulation results - case study 5.\relax }}{22}{}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Simulation results - case study 5.\relax }}{23}{}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Grid voltage used for the simulation.\relax }}{23}{}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Simulation results - case study 6.\relax }}{24}{}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Simulation results - case study 6.\relax }}{24}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces SRF PLL architecture.\relax }}{27}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Voltage vector and axes of the DSRF.\relax }}{29}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Decoupling cell for cancelling the effect of $\boldsymbol {v}^m$ on the $dq^n$ frame signals.\relax }}{31}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Decoupled double synchronous reference frame (DDSRF).\relax }}{32}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Block diagram of the DDSRF with $n=+1$ and $m=-1$.\relax }}{34}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces DDSRF PLL architecture.\relax }}{35}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces DDSRF PLL architecture - a different representation.\relax }}{36}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Grid voltage used for simulation analysis.\relax }}{36}{}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Simulation results.\relax }}{37}{}%

@@ -1,0 +1,151 @@
+\babel@toc {american}{}\relax 
+\contentsline {chapter}{\numberline {1}Linear System Theory and Design}{12}{}%
+\contentsline {section}{\numberline {1.1}State Space Representation}{12}{}%
+\contentsline {subsection}{\numberline {1.1.1}Solution of the Homogeneous State Space Equation in Continuous-time Domain}{14}{}%
+\contentsline {subsection}{\numberline {1.1.2}Computation of $e^{\tilde {\mathbf {A}}t}$}{16}{}%
+\contentsline {subsection}{\numberline {1.1.3}Solution of the Non-Homogeneous State Space Equation in Continuous-time Domain}{18}{}%
+\contentsline {section}{\numberline {1.2}Discretization}{23}{}%
+\contentsline {subsection}{\numberline {1.2.1}Discrete-time Transform Methods}{30}{}%
+\contentsline {section}{\numberline {1.3}Discrete-time Representation of State Space}{35}{}%
+\contentsline {subsection}{\numberline {1.3.1}Solutions of the Non Homogeneous State Space Equation in Discrete-time Domain}{37}{}%
+\contentsline {subsection}{\numberline {1.3.2}$\mathbf {\mathcal {Z}}$-Transform Approach to the Solution of Discrete-time State Equations.}{38}{}%
+\contentsline {subsection}{\numberline {1.3.3}Non-Uniqueness of State Space Representation.}{39}{}%
+\contentsline {section}{\numberline {1.4}Canonical State Space Representation}{40}{}%
+\contentsline {subsection}{\numberline {1.4.1}Controllable Canonical Form.}{40}{}%
+\contentsline {subsection}{\numberline {1.4.2}Partial-Fraction-Expansion Programming Method.}{41}{}%
+\contentsline {section}{\numberline {1.5}Discretization of Continuous-time State Space System}{45}{}%
+\contentsline {section}{\numberline {1.6}Controllability}{53}{}%
+\contentsline {section}{\numberline {1.7}State Feedback Control}{55}{}%
+\contentsline {section}{\numberline {1.8}Observability}{59}{}%
+\contentsline {section}{\numberline {1.9}Principle of Duality}{61}{}%
+\contentsline {section}{\numberline {1.10}State Observer}{63}{}%
+\contentsline {section}{\numberline {1.11}State Feedback with Integrator}{76}{}%
+\contentsline {subsection}{\numberline {1.11.1}Continuous-time Domain Case}{76}{}%
+\contentsline {subsection}{\numberline {1.11.2}Discrete-time Representation of an Integrator}{78}{}%
+\contentsline {subsection}{\numberline {1.11.3}Discrete-time Domain Case}{81}{}%
+\contentsline {chapter}{\numberline {2}Ljapunov Stability}{89}{}%
+\contentsline {section}{\numberline {2.1}Some backgrounds}{89}{}%
+\contentsline {subsection}{\numberline {2.1.1}Equilibrium Points in Continuous-time Domain}{92}{}%
+\contentsline {subsection}{\numberline {2.1.2}Equilibrium Points in Discrete-time Domain}{93}{}%
+\contentsline {section}{\numberline {2.2}Fundamentals of Ljapunov Theory.}{94}{}%
+\contentsline {section}{\numberline {2.3}Ljapunov Stability.}{102}{}%
+\contentsline {section}{\numberline {2.4}First Ljapunov Criterion}{103}{}%
+\contentsline {subsection}{\numberline {2.4.1}Continuous-time domain}{103}{}%
+\contentsline {subsection}{\numberline {2.4.2}Discrete-time domain}{103}{}%
+\contentsline {section}{\numberline {2.5}Second Ljapunov Criterion - Direct Method}{104}{}%
+\contentsline {section}{\numberline {2.6}Ljapunov Analysis of Linear Time-Invariant Systems}{104}{}%
+\contentsline {chapter}{\numberline {3}Optimal Control}{108}{}%
+\contentsline {section}{\numberline {3.1}Some Background}{108}{}%
+\contentsline {section}{\numberline {3.2}Solution of the General Continuous-time Optimization Problem}{110}{}%
+\contentsline {subsection}{\numberline {3.2.1}Problem formulation and solution}{110}{}%
+\contentsline {section}{\numberline {3.3}Introduction to Linear Quadratic Optimal Control}{118}{}%
+\contentsline {section}{\numberline {3.4}Steady State Quadratic Optimal Control}{126}{}%
+\contentsline {subsection}{\numberline {3.4.1}Steady state quadratic optimal control using matlab}{127}{}%
+\contentsline {section}{\numberline {3.5}Optimal Control of the Mass-Spring-Mass System}{129}{}%
+\contentsline {subsection}{\numberline {3.5.1}Simulation Results}{132}{}%
+\contentsline {section}{\numberline {3.6}Linear Quadratic Integral (LQI) Control}{136}{}%
+\contentsline {subsection}{\numberline {3.6.1}LQI Control of Mass-Spring-Mass}{137}{}%
+\contentsline {chapter}{\numberline {4}Least Squares Parameters Estimation for Dynamical Systems}{139}{}%
+\contentsline {section}{\numberline {4.1}Non-Recursive Method of Least Squares (LS)}{139}{}%
+\contentsline {section}{\numberline {4.2}Recursive Method of Least Squares (LS)}{143}{}%
+\contentsline {chapter}{\numberline {5}The Kalman Theory}{148}{}%
+\contentsline {section}{\numberline {5.1}The linear least-squares problem}{148}{}%
+\contentsline {section}{\numberline {5.2}The Kalman-filter problem}{151}{}%
+\contentsline {chapter}{\numberline {6}Model Predictive Control}{157}{}%
+\contentsline {section}{\numberline {6.1}Predictive Current Control of a Single-Phase $\mathit {\mathbf {RL}}$ Load}{157}{}%
+\contentsline {subsection}{\numberline {6.1.1}Control Problem}{157}{}%
+\contentsline {subsection}{\numberline {6.1.2}Prediction of Current Trajectories}{158}{}%
+\contentsline {subsection}{\numberline {6.1.3}Optimization Problem}{159}{}%
+\contentsline {subsection}{\numberline {6.1.4}Control Algorithm}{159}{}%
+\contentsline {section}{\numberline {6.2}Theory of Model Predictive Control}{162}{}%
+\contentsline {chapter}{\numberline {7}Adaptive Control}{167}{}%
+\contentsline {section}{\numberline {7.1}Model Reference Adaptive Control.}{167}{}%
+\contentsline {section}{\numberline {7.2}Simple Adaptive Control Systems}{168}{}%
+\contentsline {subsection}{\numberline {7.2.1}Direct Adaptive Control}{168}{}%
+\contentsline {subsubsection}{\numberline {7.2.1.1}Lyapunov Design}{168}{}%
+\contentsline {section}{\numberline {7.3}Adaptive Control for Active Suspension System}{175}{}%
+\contentsline {subsection}{\numberline {7.3.1}Adaptive Control Design}{178}{}%
+\contentsline {chapter}{\numberline {8}Dynamical System Models Derivation}{184}{}%
+\contentsline {section}{\numberline {8.1}Permanent-magnet Linear Actuator - Moving Coil}{184}{}%
+\contentsline {section}{\numberline {8.2}Permanent Magnet Synchronous Motor - Mathematical Model Derivation}{190}{}%
+\contentsline {subsection}{\numberline {8.2.1}PMSM model respect to a stationary reference frame}{193}{}%
+\contentsline {subsection}{\numberline {8.2.2}PMSM model respect to a rotating reference frame}{196}{}%
+\contentsline {subsection}{\numberline {8.2.3}PMSM Torque Derivation}{200}{}%
+\contentsline {subsection}{\numberline {8.2.4}Equivalent Circuit of a PMSM}{203}{}%
+\contentsline {section}{\numberline {8.3}Induction Motor Model Derivation}{204}{}%
+\contentsline {section}{\numberline {8.4}Lithium-ion Battery Model}{214}{}%
+\contentsline {subsection}{\numberline {8.4.1}Principle of Operation}{214}{}%
+\contentsline {subsection}{\numberline {8.4.2}Dynamical Model of Lithium-ion Battery}{216}{}%
+\contentsline {subsection}{\numberline {8.4.3}Open Circuit Voltage Model}{223}{}%
+\contentsline {section}{\numberline {8.5}LRCL Circuit Modelization}{224}{}%
+\contentsline {section}{\numberline {8.6}Generic Thermal Model}{228}{}%
+\contentsline {subsection}{\numberline {8.6.1}Preliminary background}{228}{}%
+\contentsline {subsection}{\numberline {8.6.2}Equivalent mathematical model}{231}{}%
+\contentsline {chapter}{\numberline {9}Case Studies}{236}{}%
+\contentsline {section}{\numberline {9.1}Control of a Wheel with C-Code Implementation}{236}{}%
+\contentsline {subsection}{\numberline {9.1.1}Rotor Speed and Load Torque Observer}{236}{}%
+\contentsline {subsection}{\numberline {9.1.2}C-Code Implementation Using C-caller}{241}{}%
+\contentsline {subsection}{\numberline {9.1.3}Simulation results}{246}{}%
+\contentsline {section}{\numberline {9.2}Mass-Spring-Mass Control Problem}{246}{}%
+\contentsline {subsection}{\numberline {9.2.1}Model Derivation}{247}{}%
+\contentsline {subsection}{\numberline {9.2.2}Control Design}{251}{}%
+\contentsline {subsection}{\numberline {9.2.3}Integral control without load estimation}{253}{}%
+\contentsline {subsubsection}{\numberline {9.2.3.1}Simulation results}{256}{}%
+\contentsline {subsection}{\numberline {9.2.4}Integral control with load estimation}{256}{}%
+\contentsline {subsubsection}{\numberline {9.2.4.1}Simulation results}{258}{}%
+\contentsline {section}{\numberline {9.3}Control of a Single Phase Inverter}{259}{}%
+\contentsline {subsection}{\numberline {9.3.1}Model Derivation}{259}{}%
+\contentsline {subsection}{\numberline {9.3.2}Control Design}{262}{}%
+\contentsline {subsubsection}{\numberline {9.3.2.1}Simulation Results}{264}{}%
+\contentsline {section}{\numberline {9.4}Permanent-Magnet Linear Actuator - Moving Coil}{265}{}%
+\contentsline {subsection}{\numberline {9.4.1}Model Derivation}{266}{}%
+\contentsline {subsection}{\numberline {9.4.2}Control Problem}{268}{}%
+\contentsline {subsection}{\numberline {9.4.3}Control Design without Load Estimator}{268}{}%
+\contentsline {subsubsection}{\numberline {9.4.3.1}Simulation results}{270}{}%
+\contentsline {subsection}{\numberline {9.4.4}Control Design with Load Estimator}{271}{}%
+\contentsline {subsubsection}{\numberline {9.4.4.1}Simulation Results}{273}{}%
+\contentsline {section}{\numberline {9.5}Pendulum on Cart}{274}{}%
+\contentsline {subsection}{\numberline {9.5.1}Model Derivation}{274}{}%
+\contentsline {subsection}{\numberline {9.5.2}Control Implementation }{278}{}%
+\contentsline {subsection}{\numberline {9.5.3}Control Implementation with load observer}{280}{}%
+\contentsline {subsection}{\numberline {9.5.4}Simulation Results}{283}{}%
+\contentsline {section}{\numberline {9.6}Segway}{285}{}%
+\contentsline {subsection}{\numberline {9.6.1}Model Derivation}{285}{}%
+\contentsline {section}{\numberline {9.7}Lithium-ion Battery Management by the use of Extended Kalman Filter}{289}{}%
+\contentsline {subsection}{\numberline {9.7.1}State Observer Implementation with EKF}{291}{}%
+\contentsline {subsection}{\numberline {9.7.2}Simulation results}{294}{}%
+\contentsline {subsection}{\numberline {9.7.3}Adaptive State Observer Implementation with EKF}{295}{}%
+\contentsline {section}{\numberline {9.8}PMSM MPC with EKF}{295}{}%
+\contentsline {subsection}{\numberline {9.8.1}Introduction}{295}{}%
+\contentsline {subsection}{\numberline {9.8.2}Control design}{297}{}%
+\contentsline {subsubsection}{\numberline {9.8.2.1}Model discretization}{298}{}%
+\contentsline {subsection}{\numberline {9.8.3}Extended Kalman Filter (EKF) Observer}{299}{}%
+\contentsline {subsection}{\numberline {9.8.4}EKF Observer for nonlinear PMSM}{303}{}%
+\contentsline {subsection}{\numberline {9.8.5}Space Vector (SV) and Model Predictive (MP) Modulators}{305}{}%
+\contentsline {subsection}{\numberline {9.8.6}Current Reference Generator}{309}{}%
+\contentsline {subsection}{\numberline {9.8.7}MPC with EKF Implementation}{310}{}%
+\contentsline {subsubsection}{\numberline {9.8.7.1}MPC algorithm implementation}{311}{}%
+\contentsline {subsection}{\numberline {9.8.8}Simulation Results}{315}{}%
+\contentsline {section}{\numberline {9.9}Induction Motor Control with Kalman Filter Observer}{316}{}%
+\contentsline {subsection}{\numberline {9.9.1}Rotor Flux Observer}{320}{}%
+\contentsline {subsection}{\numberline {9.9.2}Torque Control}{321}{}%
+\contentsline {subsection}{\numberline {9.9.3}Simulation Results}{323}{}%
+\contentsline {section}{\numberline {9.10}Control of an Harmonic in Harsh Environment}{324}{}%
+\contentsline {subsection}{\numberline {9.10.1}Magnitude control design}{325}{}%
+\contentsline {subsection}{\numberline {9.10.2}Simulation results}{327}{}%
+\contentsline {subsection}{\numberline {9.10.3}Magnitude and phase control design}{329}{}%
+\contentsline {subsection}{\numberline {9.10.4}Simulation results}{330}{}%
+\contentsline {section}{\numberline {9.11}Magnetic Bearing Modelization and Control}{330}{}%
+\contentsline {subsection}{\numberline {9.11.1}Nomenclature}{331}{}%
+\contentsline {subsection}{\numberline {9.11.2}Model Derivation}{331}{}%
+\contentsline {subsection}{\numberline {9.11.3}Model Linearization}{334}{}%
+\contentsline {subsection}{\numberline {9.11.4}State-Feedback with Integrator applied to the linearized magnetic bearing model.}{339}{}%
+\contentsline {subsection}{\numberline {9.11.5}Simulation Results}{340}{}%
+\contentsline {chapter}{\numberline {10}Appendices}{343}{}%
+\contentsline {section}{\numberline {10.1}Moving Reference Frames}{343}{}%
+\contentsline {section}{\numberline {10.2}Propaedeutic Fundamentals for Magnetic Bearings}{349}{}%
+\contentsline {subsection}{\numberline {10.2.1}Magnetic Field and Induction}{349}{}%
+\contentsline {subsection}{\numberline {10.2.2}Properties of Ferromagnetic Material}{353}{}%
+\contentsline {subsection}{\numberline {10.2.3}Magnetic Circuit}{354}{}%
+\contentsline {subsection}{\numberline {10.2.4}Magnetic Force}{357}{}%
+\contentsline {subsection}{\numberline {10.2.5}Linearization of the Force-Current Relation}{358}{}%

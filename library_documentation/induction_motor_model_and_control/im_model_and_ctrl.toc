@@ -1,0 +1,28 @@
+\babel@toc {american}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{5}{}%
+\contentsline {section}{\numberline {1.1}Nomenclature}{5}{}%
+\contentsline {chapter}{\numberline {2}Symmetrical Induction Machines}{7}{}%
+\contentsline {section}{\numberline {2.1}Voltage equations in machine variables}{7}{}%
+\contentsline {section}{\numberline {2.2}Torque equation in machine variables}{8}{}%
+\contentsline {chapter}{\numberline {3}Steady State Analysis of the Induction Motor}{10}{}%
+\contentsline {section}{\numberline {3.1}Equivalent Circuit}{10}{}%
+\contentsline {chapter}{\numberline {4}Induction Motor Parameter Calculation}{15}{}%
+\contentsline {section}{\numberline {4.1}No-load test}{15}{}%
+\contentsline {section}{\numberline {4.2}Blocked-rotor test}{16}{}%
+\contentsline {subsection}{\numberline {4.2.1}Rotor resistance from steady state nominal load test}{18}{}%
+\contentsline {chapter}{\numberline {5}Reference-Frame Theory}{20}{}%
+\contentsline {section}{\numberline {5.1}Change of variables}{20}{}%
+\contentsline {chapter}{\numberline {6}Dynamical Model of the Induction Motor}{26}{}%
+\contentsline {section}{\numberline {6.1}Induction Motor Representation in $\alpha \beta $}{26}{}%
+\contentsline {section}{\numberline {6.2}Rotor Flux Observer}{34}{}%
+\contentsline {section}{\numberline {6.3}Performance analysis and correction of the parameters}{35}{}%
+\contentsline {subsection}{\numberline {6.3.1}Motor performance under correct rotor resistance estimation}{36}{}%
+\contentsline {subsection}{\numberline {6.3.2}Motor performance with underestimate rotor resistance}{37}{}%
+\contentsline {subsection}{\numberline {6.3.3}Motor performance with overestimate rotor resistance}{38}{}%
+\contentsline {chapter}{\numberline {7}Online Rotor Resistance Estimation}{39}{}%
+\contentsline {section}{\numberline {7.1}Introduction}{39}{}%
+\contentsline {section}{\numberline {7.2}Simulation results of the simplified rotor resistance estimator}{43}{}%
+\contentsline {subsection}{\numberline {7.2.1}Induction motor in hot condition}{43}{}%
+\contentsline {subsection}{\numberline {7.2.2}Induction motor in cold condition}{45}{}%
+\contentsline {chapter}{\numberline {8}Appendices}{47}{}%
+\contentsline {section}{\numberline {8.1}Simscape Model: input/output and parameters}{47}{}%

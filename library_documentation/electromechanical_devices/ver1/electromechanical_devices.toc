@@ -1,0 +1,40 @@
+\babel@toc {american}{}\relax 
+\contentsline {chapter}{\numberline {1}Review of Maxwell's equations}{6}{}%
+\contentsline {section}{\numberline {1.1}Maxwell's equations}{6}{}%
+\contentsline {subsection}{\numberline {1.1.1}Constitutive relations}{7}{}%
+\contentsline {subsection}{\numberline {1.1.2}Integral equations}{8}{}%
+\contentsline {subsection}{\numberline {1.1.3}Boundary conditions}{9}{}%
+\contentsline {subsection}{\numberline {1.1.4}Force and torque}{13}{}%
+\contentsline {section}{\numberline {1.2}Potentials}{13}{}%
+\contentsline {section}{\numberline {1.3}Quasi-static theory}{15}{}%
+\contentsline {section}{\numberline {1.4}Static theory}{16}{}%
+\contentsline {subsection}{\numberline {1.4.1}Magnetostatic theory}{17}{}%
+\contentsline {chapter}{\numberline {2}Field Analysis}{19}{}%
+\contentsline {section}{\numberline {2.1}Introduction}{19}{}%
+\contentsline {section}{\numberline {2.2}Magnetostatic analysis}{19}{}%
+\contentsline {subsection}{\numberline {2.2.1}Constituent relations}{22}{}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}Magnetization}{22}{}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}Polarization}{24}{}%
+\contentsline {subsubsection}{\numberline {2.2.1.3}Electrical conduction}{26}{}%
+\contentsline {subsection}{\numberline {2.2.2}Vector potential}{27}{}%
+\contentsline {subsection}{\numberline {2.2.3}Force and torque}{34}{}%
+\contentsline {subsection}{\numberline {2.2.4}Maxwell stress tensor}{36}{}%
+\contentsline {subsection}{\numberline {2.2.5}Energy}{38}{}%
+\contentsline {section}{\numberline {2.3}The current model}{39}{}%
+\contentsline {section}{\numberline {2.4}The charge model}{41}{}%
+\contentsline {subsection}{\numberline {2.4.1}Force}{44}{}%
+\contentsline {subsection}{\numberline {2.4.2}Torque}{45}{}%
+\contentsline {section}{\numberline {2.5}Magnetic circuit analysis}{47}{}%
+\contentsline {subsection}{\numberline {2.5.1}Current sources}{48}{}%
+\contentsline {subsection}{\numberline {2.5.2}Magnet sources}{52}{}%
+\contentsline {chapter}{\numberline {3}Electromechanical devices}{55}{}%
+\contentsline {section}{\numberline {3.1}Introduction}{55}{}%
+\contentsline {section}{\numberline {3.2}Device basics}{55}{}%
+\contentsline {section}{\numberline {3.3}Quasi-static field theory}{56}{}%
+\contentsline {subsection}{\numberline {3.3.1}Stationary reference frames}{57}{}%
+\contentsline {subsection}{\numberline {3.3.2}Moving reference frames}{60}{}%
+\contentsline {section}{\numberline {3.4}Electrical equations}{66}{}%
+\contentsline {subsection}{\numberline {3.4.1}Stationary circuits}{67}{}%
+\contentsline {subsection}{\numberline {3.4.2}Moving coils}{70}{}%
+\contentsline {section}{\numberline {3.5}Energy analysis}{72}{}%
+\contentsline {subsection}{\numberline {3.5.1}Solenoid actuator}{78}{}%

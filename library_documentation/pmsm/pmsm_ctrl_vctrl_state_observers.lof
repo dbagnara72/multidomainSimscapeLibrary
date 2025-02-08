@@ -1,0 +1,14 @@
+\babel@toc {american}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Stationary and rotating reference frame\relax }}{5}{}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Stationary $\alpha \beta $ reference frame\relax }}{7}{}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Rotating $dq$ reference frame\relax }}{10}{}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Rotating and rotor reference frame representation of the pmsm equivalent circuit.\relax }}{16}{}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Global vector control of the classical of a PMSM.\relax }}{17}{}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Internal current control of the classical FOC of a PMSM.\relax }}{17}{}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Vector diagram of the PMSM and effect of the $i_d$ current component on the terminal voltage $\vec {v}_g$.\relax }}{18}{}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Vector diagram of the PMSM and effect of the $i_d$ current component on the terminal voltage $\vec {v}_g$ - Field weakening case.\relax }}{20}{}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Current limit circle and voltage limit ellipses in $i_d-i_q$ plane.\relax }}{21}{}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Some possible current control strategies and their properties.\relax }}{22}{}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Robust flux weakening control architecture.\relax }}{24}{}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Terminals short circuit test from electrical point of view.\relax }}{25}{}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Load test and method to determine the $L_q$ inductance.\relax }}{26}{}%

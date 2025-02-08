@@ -1,0 +1,27 @@
+\babel@toc {american}{}\relax 
+\contentsline {chapter}{\numberline {1}Nonlinear Observer of a Hydrostatic Transmission}{6}{}%
+\contentsline {section}{\numberline {1.1}Nomenclature}{6}{}%
+\contentsline {section}{\numberline {1.2}Model description}{7}{}%
+\contentsline {section}{\numberline {1.3}Nonlinear Observers}{9}{}%
+\contentsline {subsection}{\numberline {1.3.1}Load estimator - case study}{10}{}%
+\contentsline {subsection}{\numberline {1.3.2}Driveline pressure estimator - case study}{13}{}%
+\contentsline {chapter}{\numberline {2}Appendix - DC Motor}{14}{}%
+\contentsline {chapter}{\numberline {3}Appendix - Hydrostatic components}{15}{}%
+\contentsline {section}{\numberline {3.1}Mutual operability of pump and motor volumetric displacements}{15}{}%
+\contentsline {chapter}{\numberline {4}Appendix - Symmetrical Induction Machines}{17}{}%
+\contentsline {section}{\numberline {4.1}Voltage equations in machine variables}{17}{}%
+\contentsline {section}{\numberline {4.2}Torque equation in machine variables}{18}{}%
+\contentsline {section}{\numberline {4.3}Equivalent circuit}{19}{}%
+\contentsline {section}{\numberline {4.4}Parameter determination from no-load, blocked-rotor and nominal steady state tests}{22}{}%
+\contentsline {subsection}{\numberline {4.4.1}NO-load Test}{23}{}%
+\contentsline {subsection}{\numberline {4.4.2}Blocked-Rotor Test}{23}{}%
+\contentsline {subsection}{\numberline {4.4.3}Rotor resistance from steady state nominal load test}{25}{}%
+\contentsline {chapter}{\numberline {5}Appendix - Special Nonlinear Forms}{26}{}%
+\contentsline {section}{\numberline {5.1}Normal Form}{26}{}%
+\contentsline {section}{\numberline {5.2}Controller Form}{33}{}%
+\contentsline {section}{\numberline {5.3}Observer Form}{39}{}%
+\contentsline {chapter}{\numberline {6}Appendix - Nonlinear Observers}{46}{}%
+\contentsline {section}{\numberline {6.1}Local Observers}{47}{}%
+\contentsline {section}{\numberline {6.2}The Extended Kalman Filter}{48}{}%
+\contentsline {section}{\numberline {6.3}Global Observer}{52}{}%
+\contentsline {section}{\numberline {6.4}High-Gain Observers}{53}{}%

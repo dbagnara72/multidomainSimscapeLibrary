@@ -1,0 +1,186 @@
+\babel@toc {american}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Pendulum.\relax }}{19}{}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Phase portrait of the harmonic oscillator for different initial conditions.\relax }}{21}{}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Phase portrait of the harmonic damped oscillator.\relax }}{22}{}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Pendulum.\relax }}{22}{}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Description of a discrete time system.\relax }}{24}{}%
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Sampler and zero-order hold.\relax }}{25}{}%
+\contentsline {figure}{\numberline {1.7}{\ignorespaces (a) System with a sampler and zero order hold; (b) equivalent system (mathematical model) which consists of an impulse sampler and transfer function $(1-e^{-sT})/s$.\relax }}{26}{}%
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Right Riemann Integration\relax }}{29}{}%
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Continuous time model.\relax }}{30}{}%
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Mapping of the left half of the s plane into z plane by $s = (1-z^{-1})/t_s$ (backward difference method).\relax }}{33}{}%
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Area approximation bt the bilinear transformation method (also called Tustin).\relax }}{34}{}%
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Mapping of the left half of the s plane into z plane by $s = 2/t_s(1-z^{-1})/(1+z^{-1})$ (bilinear transformation method).\relax }}{35}{}%
+\contentsline {figure}{\numberline {1.13}{\ignorespaces State space representation of a given dynamical system in both continuous and discrete-time domain.\relax }}{36}{}%
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Proportional Resonant Controller structure.\relax }}{49}{}%
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Proportional Resonant Control performance in the case of backward discretization. $i^{ref}(t)$-dashed, $i(t)$-solid.\relax }}{49}{}%
+\contentsline {figure}{\numberline {1.16}{\ignorespaces Proportional Resonant Control performance in the case of pre-warped trapezoidal discretization. $i^{ref}(t)$-dashed, $i(t)$-solid.\relax }}{50}{}%
+\contentsline {figure}{\numberline {1.17}{\ignorespaces Implementation of the proportional resonant control in the case of discrete time state space representation.\relax }}{52}{}%
+\contentsline {figure}{\numberline {1.18}{\ignorespaces Proportional resonant control performance in the case of discrete time state space implementation. $i^{ref}(t)$-dashed, $i(t)$-solid.\relax }}{53}{}%
+\contentsline {figure}{\numberline {1.19}{\ignorespaces Closed loop control system with $u=-\mathbf {K}\vec {x}$.\relax }}{56}{}%
+\contentsline {figure}{\numberline {1.20}{\ignorespaces State feedback evolution for an generic asymptotic stable system. The effect of the state feedback control is to change the \textit {nature} of the system. The new system will behave, in closed loop, has designed. The design of the state feedback matrix $\mathbf {K}$ is here called: \textit {regulator problem}.\relax }}{57}{}%
+\contentsline {figure}{\numberline {1.21}{\ignorespaces Spring mass system with force input $u(t)$.\relax }}{57}{}%
+\contentsline {figure}{\numberline {1.22}{\ignorespaces Phase portraits of the harmonic oscillator with and without state feedback compensation.\relax }}{59}{}%
+\contentsline {figure}{\numberline {1.23}{\ignorespaces Full-order state observer.\relax }}{65}{}%
+\contentsline {figure}{\numberline {1.24}{\ignorespaces Observed state feedback control system.\relax }}{69}{}%
+\contentsline {figure}{\numberline {1.25}{\ignorespaces Double Integrator Observer.\relax }}{73}{}%
+\contentsline {figure}{\numberline {1.26}{\ignorespaces Double Integrator Observer in Discrete Time Domain.\relax }}{74}{}%
+\contentsline {figure}{\numberline {1.27}{\ignorespaces Phase generation.\relax }}{74}{}%
+\contentsline {figure}{\numberline {1.28}{\ignorespaces Double Integrator Observer in Discrete Time Domain with bounder block.\relax }}{75}{}%
+\contentsline {figure}{\numberline {1.29}{\ignorespaces Double integrator observer used as derivative applied to a rotating phase signal.\relax }}{75}{}%
+\contentsline {figure}{\numberline {1.30}{\ignorespaces Servo system with state feedback and integral control - continuous time case\relax }}{76}{}%
+\contentsline {figure}{\numberline {1.31}{\ignorespaces PI-controller architecture in continuous time domain.\relax }}{79}{}%
+\contentsline {figure}{\numberline {1.32}{\ignorespaces PI-controller architecture in discrete time domain.\relax }}{80}{}%
+\contentsline {figure}{\numberline {1.33}{\ignorespaces PI-controller architecture in discrete time domain - alternative representation.\relax }}{80}{}%
+\contentsline {figure}{\numberline {1.34}{\ignorespaces Servo system with state feedback and integral control\relax }}{81}{}%
+\contentsline {figure}{\numberline {1.35}{\ignorespaces Servo system with observed state feedback and integral control\relax }}{87}{}%
+\contentsline {figure}{\numberline {1.36}{\ignorespaces Servo system with observed state feedback and integral control. SISO case.\relax }}{87}{}%
+\contentsline {figure}{\numberline {1.37}{\ignorespaces Servo system with observed state feedback and integral control. SISO case.\relax }}{88}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Pendulum.\relax }}{89}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Phase portrait of the harmonic oscillator for different initial conditions.\relax }}{91}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Phase portrait of the harmonic damped oscillator.\relax }}{92}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Ljapunov stability criterion.\relax }}{95}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Ljapunov function $V(\vec {x})$ and the Ljapunov level surface $V(\vec {x})=c$ (dashed).\relax }}{97}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Plotting results.\relax }}{107}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Maximum and minimum of the function $f(x,y) = x+y$ subject to the constraint $\frac {x^2}{a^2}+\frac {y^2}{b^2}-1 = 0$.\relax }}{109}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces .\relax }}{115}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Informal visualization of the evolution of a state vector in case of autonomous system (dashed) and in the case of optimal state feedback (solid).\relax }}{120}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Implementation of the finite time optimal regulator.\relax }}{121}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces System representation for the case of autonomous system. The symbol $\vec {x}^a(k)$ for the autonomous system is used.\relax }}{131}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces System representation for the case with optimal state feedback where matrix $\mathbf {K}(k),\hskip 1em\relax k=0,1,...,N-1$ has been pre-calculated.\relax }}{131}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces System representation for the case with steady state optimal state feedback.\relax }}{132}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Simulation results.\relax }}{132}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Simulation results.\relax }}{133}{}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Simulation results.\relax }}{133}{}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Simulation results.\relax }}{134}{}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Simulation results.\relax }}{135}{}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Evolution of the control input $u(k)$ for the case of state feedback. For the autonomous, obviously, $u(k)=0$\relax }}{135}{}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces LQI controller structure.\relax }}{136}{}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Simulation results.\relax }}{138}{}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Control input $u(k)$.\relax }}{138}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Non-recursive scheme for least squares method.\relax }}{139}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces The solution to the least squares problem. The matrix $\mathbf {F}$ is $3\times 2$; its two column vectors $\vec {f}_1$ and $\vec {f}_2$ span a two-dimensional plane in a three-dimensional space. The vector $\vec {y}$ does not lie in this plane. The projection of $\vec {y}$ onto the plane spanned by $\vec {f}_1$ and $\vec {f}_2$ is the vector $\hat {\vec {y}}=\mathbf {F}\hat {\vec {x}}$. The residual $\vec {e}=\vec {y}-\hat {\vec {y}}$ is orthogonal to the plane spanned by $\vec {f}_1$ and $\vec {f}_2$.\relax }}{150}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Illustration of the orthogonality principle.\relax }}{153}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Kalman observer implementation.\relax }}{156}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces H-Bridge inverter with $RL$ load.\relax }}{157}{}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Predictive current control.\relax }}{158}{}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Prediction of the current at the next time step $i(k+1)$ as a function of the output voltage $u(k)$. The current reference $i^{ref}$ is indicated by the dashed line.\relax }}{161}{}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Simulation results.\relax }}{162}{}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Block diagram for MPC of a linear system (without observer).\relax }}{166}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Block diagram of a model-reference adaptive control (MRAC).\relax }}{168}{}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Control architecture.\relax }}{173}{}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Simulation results.\relax }}{174}{}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Simulation results.\relax }}{175}{}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Sky-hook model reference.\relax }}{176}{}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Active supension model.\relax }}{177}{}%
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Control architecture for direct MRAC.\relax }}{181}{}%
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Simulation results.\relax }}{182}{}%
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Simulation results.\relax }}{183}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Moving coil actuator.\relax }}{185}{}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Evaluation of the $d\vec {B}/dt$.\relax }}{186}{}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Lorentz force applied to the coil charge due to effect of the speed.\relax }}{188}{}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Stationary and rotating reference frame\relax }}{191}{}%
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Stationary and rotating reference frame\relax }}{192}{}%
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Stationary $\alpha \beta $ reference frame\relax }}{194}{}%
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Rotating $dq$ reference frame\relax }}{196}{}%
+\contentsline {figure}{\numberline {8.8}{\ignorespaces Rotating and rotor reference frame representation of the pmsm equivalent circuit.\relax }}{203}{}%
+\contentsline {figure}{\numberline {8.9}{\ignorespaces Machine reference frames description: stationary $(\alpha ,\beta )$, rotor $(d,q)$ and synchronous speed $(x,y)$ reference frames.\relax }}{206}{}%
+\contentsline {figure}{\numberline {8.10}{\ignorespaces Different point of views regarding different reference frames: stationary $(\alpha ,\beta )$ can be considered in still condition; rotor $(d,q)$ can be thought rotating at the rotor speed; synchronous reference frame $(x,y)$ can be thought rotating at electrical stator pulsation.\relax }}{207}{}%
+\contentsline {figure}{\numberline {8.11}{\ignorespaces Internal view of a typical induction motor with squirrel cage rotor.\relax }}{208}{}%
+\contentsline {figure}{\numberline {8.12}{\ignorespaces Schematic energy diagram of a lithium cell at open circuit.\relax }}{215}{}%
+\contentsline {figure}{\numberline {8.13}{\ignorespaces Schematic energy diagram of a lithium cell at open circuit.\relax }}{216}{}%
+\contentsline {figure}{\numberline {8.14}{\ignorespaces Open circuit voltage as a function of state of charge for different lithium-ion cell chemistries.\relax }}{217}{}%
+\contentsline {figure}{\numberline {8.15}{\ignorespaces Equivalent circuit of the cell.\relax }}{218}{}%
+\contentsline {figure}{\numberline {8.16}{\ignorespaces Behavior of the cell polarization, when a cell is subjected to a discharge pulse followed by a rest.\relax }}{219}{}%
+\contentsline {figure}{\numberline {8.17}{\ignorespaces Circuit that models the diffusion voltage process.\relax }}{220}{}%
+\contentsline {figure}{\numberline {8.18}{\ignorespaces Measuring parameter values from a pulse response.\relax }}{220}{}%
+\contentsline {figure}{\numberline {8.19}{\ignorespaces The enhanced self-correcting cell model equivalent circuit.\relax }}{223}{}%
+\contentsline {figure}{\numberline {8.20}{\ignorespaces Lithium-ion battery open circuit cell as function of the state of charge.\relax }}{224}{}%
+\contentsline {figure}{\numberline {8.21}{\ignorespaces LRCL electrical schematic.\relax }}{224}{}%
+\contentsline {figure}{\numberline {8.22}{\ignorespaces Control volume for internal flow in a heat-sink.\relax }}{230}{}%
+\contentsline {figure}{\numberline {8.23}{\ignorespaces Fundamental thermal circuit used as benchmark.\relax }}{230}{}%
+\contentsline {figure}{\numberline {8.24}{\ignorespaces Schematic representation of the fundamental thermal circuit.\relax }}{231}{}%
+\contentsline {figure}{\numberline {8.25}{\ignorespaces Generic thermal structure for a generic electromechanical system.\relax }}{232}{}%
+\contentsline {figure}{\numberline {8.26}{\ignorespaces Generic thermal equivalent circuit for a generic electromechanical system.\relax }}{233}{}%
+\contentsline {figure}{\numberline {8.27}{\ignorespaces Generic thermal structure for a cascade of electromechanical systems - the flow of the thermal fluid is created by a hydraulic pump.\relax }}{235}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Description of the system.\relax }}{236}{}%
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Control system implementation with state observer in continuous time domain.\relax }}{239}{}%
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Control system implementation with state observer in discrete time domain.\relax }}{240}{}%
+\contentsline {figure}{\numberline {9.4}{\ignorespaces C-caller control architecture.\relax }}{241}{}%
+\contentsline {figure}{\numberline {9.5}{\ignorespaces Simplified crankshaft model.\relax }}{248}{}%
+\contentsline {figure}{\numberline {9.6}{\ignorespaces Open loop response of the system applying an impulse to the torque input $\tau _1$. The natural frequency of the system is $f_0 \approx \frac {1}{2\pi }\sqrt {k_{\theta }\frac {J_1+J_2}{J_1J_2}} = 1.424 Hz$\relax }}{252}{}%
+\contentsline {figure}{\numberline {9.7}{\ignorespaces A generic representation of the Proportional Integrator + State Feedback control architecture. This structure can be used when inner properties of the plant need to be modified.\relax }}{253}{}%
+\contentsline {figure}{\numberline {9.8}{\ignorespaces Description of the control strategy in discrete-time domain without $\tau _2(t)$ estimator.\relax }}{255}{}%
+\contentsline {figure}{\numberline {9.9}{\ignorespaces Simulation results.\relax }}{256}{}%
+\contentsline {figure}{\numberline {9.10}{\ignorespaces Description of the control strategy with integration and compensation of the load.\relax }}{257}{}%
+\contentsline {figure}{\numberline {9.11}{\ignorespaces Step response of the state feedback control with observer and load compensation. $\tau _2$ is the external load.\relax }}{258}{}%
+\contentsline {figure}{\numberline {9.12}{\ignorespaces Observer performance.\relax }}{259}{}%
+\contentsline {figure}{\numberline {9.13}{\ignorespaces Single phase inverter circuit with load disturbance.\relax }}{260}{}%
+\contentsline {figure}{\numberline {9.14}{\ignorespaces Equivalent model of the single phase inverter with load disturbance.\relax }}{260}{}%
+\contentsline {figure}{\numberline {9.15}{\ignorespaces Fluid level control in a tank.\relax }}{262}{}%
+\contentsline {figure}{\numberline {9.16}{\ignorespaces Control architecture for harmonic compensator.\relax }}{263}{}%
+\contentsline {figure}{\numberline {9.17}{\ignorespaces Simulation results.\relax }}{265}{}%
+\contentsline {figure}{\numberline {9.18}{\ignorespaces Performance estimation of the disturbance $d(t)$.\relax }}{265}{}%
+\contentsline {figure}{\numberline {9.19}{\ignorespaces Linear actuator.\relax }}{266}{}%
+\contentsline {figure}{\numberline {9.20}{\ignorespaces Control architecture.\relax }}{269}{}%
+\contentsline {figure}{\numberline {9.21}{\ignorespaces Simulation results.\relax }}{270}{}%
+\contentsline {figure}{\numberline {9.22}{\ignorespaces Simulation results.\relax }}{271}{}%
+\contentsline {figure}{\numberline {9.23}{\ignorespaces Control architecture with load estimator.\relax }}{272}{}%
+\contentsline {figure}{\numberline {9.24}{\ignorespaces Simulation results.\relax }}{273}{}%
+\contentsline {figure}{\numberline {9.25}{\ignorespaces Pendulum on cart.\relax }}{275}{}%
+\contentsline {figure}{\numberline {9.26}{\ignorespaces Control architecture for \textit {pendulum on cart} problem - discrete time domain.\relax }}{279}{}%
+\contentsline {figure}{\numberline {9.27}{\ignorespaces Control architecture for \textit {pendulum on cart} problem with load estimator - discrete time domain.\relax }}{282}{}%
+\contentsline {figure}{\numberline {9.28}{\ignorespaces Simulation results for the case with no load estimation.\relax }}{283}{}%
+\contentsline {figure}{\numberline {9.29}{\ignorespaces Simulation results for the case with load estimation and compensation.\relax }}{284}{}%
+\contentsline {figure}{\numberline {9.30}{\ignorespaces Segway.\relax }}{286}{}%
+\contentsline {figure}{\numberline {9.31}{\ignorespaces The enhanced self-correcting cell model equivalent circuit.\relax }}{291}{}%
+\contentsline {figure}{\numberline {9.32}{\ignorespaces Extended Kalman Filter algorithm for the lithium ion battery.\relax }}{294}{}%
+\contentsline {figure}{\numberline {9.33}{\ignorespaces Lithium-ion battery manager - simulation results.\relax }}{294}{}%
+\contentsline {figure}{\numberline {9.34}{\ignorespaces Lithium-ion battery manager - simulation results.\relax }}{295}{}%
+\contentsline {figure}{\numberline {9.35}{\ignorespaces PMSM control architecture.\relax }}{298}{}%
+\contentsline {figure}{\numberline {9.36}{\ignorespaces Kalman observer with time varying matrix transition.\relax }}{303}{}%
+\contentsline {figure}{\numberline {9.37}{\ignorespaces Representation of the space vector modulation and relation with inverter switches state.\relax }}{306}{}%
+\contentsline {figure}{\numberline {9.38}{\ignorespaces Space vector representation of a generic voltage vector $\vec {u}_{\alpha \beta }$.\relax }}{306}{}%
+\contentsline {figure}{\numberline {9.39}{\ignorespaces Inverter state representation of the voltages $v_1$ and $v_2$.\relax }}{307}{}%
+\contentsline {figure}{\numberline {9.40}{\ignorespaces Inverter state representation of the voltages $v_3$ and $v_4$.\relax }}{307}{}%
+\contentsline {figure}{\numberline {9.41}{\ignorespaces Inverter state representation of the voltages $v_5$ and $v_6$.\relax }}{308}{}%
+\contentsline {figure}{\numberline {9.42}{\ignorespaces Inverter state representations of the voltage $v_0$.\relax }}{308}{}%
+\contentsline {figure}{\numberline {9.43}{\ignorespaces PMSM control architecture.\relax }}{315}{}%
+\contentsline {figure}{\numberline {9.44}{\ignorespaces Simulation results.\relax }}{316}{}%
+\contentsline {figure}{\numberline {9.45}{\ignorespaces Simulation results.\relax }}{316}{}%
+\contentsline {figure}{\numberline {9.46}{\ignorespaces Induction motor torque control architecture with flux observer.\relax }}{317}{}%
+\contentsline {figure}{\numberline {9.47}{\ignorespaces Kalman observer.\relax }}{321}{}%
+\contentsline {figure}{\numberline {9.48}{\ignorespaces Simulation results.\relax }}{324}{}%
+\contentsline {figure}{\numberline {9.49}{\ignorespaces Harmonic magnitude extraction block.\relax }}{325}{}%
+\contentsline {figure}{\numberline {9.50}{\ignorespaces Global control layout.\relax }}{327}{}%
+\contentsline {figure}{\numberline {9.51}{\ignorespaces Simulation results.\relax }}{328}{}%
+\contentsline {figure}{\numberline {9.52}{\ignorespaces Simulation results.\relax }}{328}{}%
+\contentsline {figure}{\numberline {9.53}{\ignorespaces Global control layout.\relax }}{329}{}%
+\contentsline {figure}{\numberline {9.54}{\ignorespaces Simulation results.\relax }}{330}{}%
+\contentsline {figure}{\numberline {9.55}{\ignorespaces Simulation results.\relax }}{330}{}%
+\contentsline {figure}{\numberline {9.56}{\ignorespaces Two poles pairs bearing magnets.\relax }}{332}{}%
+\contentsline {figure}{\numberline {9.57}{\ignorespaces Functional graph for the implementation of a control based on the linearized model.\relax }}{339}{}%
+\contentsline {figure}{\numberline {9.58}{\ignorespaces Magnetic bearing control architecture.\relax }}{340}{}%
+\contentsline {figure}{\numberline {9.59}{\ignorespaces Simulation results - case study of linear control based on the linearized model of the magnetic bearing.\relax }}{341}{}%
+\contentsline {figure}{\numberline {9.60}{\ignorespaces Simulation results - case study of linear control based on the linearized model of the magnetic bearing.\relax }}{342}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Inertial reference frames in relative motion along one axis.\relax }}{343}{}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Inertial reference frames in relative motion.\relax }}{345}{}%
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Basic magnetic bearing structure, showing the fundamental components.\relax }}{349}{}%
+\contentsline {figure}{\numberline {10.4}{\ignorespaces Lorentz force.\relax }}{350}{}%
+\contentsline {figure}{\numberline {10.5}{\ignorespaces Magnetic fields around conductors.\relax }}{351}{}%
+\contentsline {figure}{\numberline {10.6}{\ignorespaces Induction law in a turn..\relax }}{352}{}%
+\contentsline {figure}{\numberline {10.7}{\ignorespaces $B-H$ diagram, hysteresis loop.\relax }}{353}{}%
+\contentsline {figure}{\numberline {10.8}{\ignorespaces Magnetic circuit.\relax }}{355}{}%
+\contentsline {figure}{\numberline {10.9}{\ignorespaces Graphical determination of the magnetization.\relax }}{356}{}%
+\contentsline {figure}{\numberline {10.10}{\ignorespaces Force and geometry of a magnetic bearing portion of circuit.\relax }}{357}{}%
+\contentsline {figure}{\numberline {10.11}{\ignorespaces Differential driving mode of the bearing magnets.\relax }}{359}{}%

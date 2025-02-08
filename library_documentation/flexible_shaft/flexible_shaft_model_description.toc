@@ -1,0 +1,7 @@
+\babel@toc {american}{}\relax 
+\contentsline {section}{\numberline {1}Equivalent mathematical model}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Model Derivation}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Natural oscillations}{6}{}%
+\contentsline {section}{\numberline {2}Extension to a generic gear model}{6}{}%
+\contentsline {section}{\numberline {3}Flexible Shaft - Model parameters settings}{7}{}%
+\contentsline {section}{\numberline {4}Gear - Model parameters settings}{8}{}%

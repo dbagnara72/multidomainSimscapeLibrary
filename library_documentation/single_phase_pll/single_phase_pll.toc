@@ -1,0 +1,16 @@
+\babel@toc {american}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{5}{}%
+\contentsline {section}{\numberline {1.1}Nomenclature}{5}{}%
+\contentsline {chapter}{\numberline {2}Single-Phase PLL}{7}{}%
+\contentsline {section}{\numberline {2.1}Basic Structure of a Phase-Locked Loop}{7}{}%
+\contentsline {section}{\numberline {2.2}SOGI-QSG-based PLL}{9}{}%
+\contentsline {chapter}{\numberline {3}Moving Average Filter}{14}{}%
+\contentsline {section}{\numberline {3.1}Basic Idea of the Moving Average Filter}{14}{}%
+\contentsline {section}{\numberline {3.2}Buffer Management of the Moving Average Filter}{16}{}%
+\contentsline {section}{\numberline {3.3}C-code Implementation}{16}{}%
+\contentsline {chapter}{\numberline {4}Implementation on dSPACE SCALEXIO}{20}{}%
+\contentsline {section}{\numberline {4.1}Introduction}{20}{}%
+\contentsline {section}{\numberline {4.2}Configuring the experiment}{21}{}%
+\contentsline {section}{\numberline {4.3}Creating the external hardware}{22}{}%
+\contentsline {chapter}{\numberline {5}Appendices}{23}{}%
+\contentsline {section}{\numberline {5.1}The Fourier Series}{23}{}%

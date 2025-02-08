@@ -1,0 +1,3768 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.6)  7 APR 2024 13:06
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**./im_model_and_ctrl.tex
+(im_model_and_ctrl.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-30>
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk11.clo
+File: bk11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
+Package: babel 2022/09/17 3.80 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.de
+f)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\briti
+sh.ldf
+Language: british 2017/06/06 v3.3r English support from the babel system
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\engli
+sh.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\UKeng
+lish.ldf
+Language: UKenglish 2017/06/06 v3.3r English support from the babel system
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\engli
+sh.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\USeng
+lish.ldf
+Language: USenglish 2017/06/06 v3.3r English support from the babel system
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\engli
+sh.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\engli
+sh.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\ameri
+can.ldf
+Language: american 2017/06/06 v3.3r English support from the babel system
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\engli
+sh.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+)))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel/locale/en\b
+abel-american.tex
+Package babel Info: Importing font and identification data for american
+(babel)             from babel-en-US.ini. Reported on input line 11.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel/locale/en\b
+abel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel/locale/en\b
+abel-usenglish.tex
+Package babel Info: Importing font and identification data for USenglish
+(babel)             from babel-en-US.ini. Reported on input line 11.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel/locale/en\b
+abel-ukenglish.tex
+Package babel Info: Importing font and identification data for UKenglish
+(babel)             from babel-en-GB.ini. Reported on input line 11.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel/locale/en\b
+abel-british.tex
+Package babel Info: Importing font and identification data for british
+(babel)             from babel-en-GB.ini. Reported on input line 11.
+)
+
+Package Babel Warning: The package option `english' should not be used
+(Babel)                with a more specific one (like `american') on input line
+ 4.
+
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.s
+ty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks17
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.c
+fg))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer\t
+ikz.sty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf.
+sty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfrc
+s.sty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+util-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen148
+\pgfutil@tempdimb=\dimen149
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+util-common-lists.tex))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+util-latex.def
+\pgfutil@abb=\box51
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+rcs.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revision.
+tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgfc
+ore.sty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\pgf
+sys.sty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+keys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+keysfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen152
+\pgf@y=\dimen153
+\pgf@xa=\dimen154
+\pgf@ya=\dimen155
+\pgf@xb=\dimen156
+\pgf@yb=\dimen157
+\pgf@xc=\dimen158
+\pgf@yc=\dimen159
+\pgf@xd=\dimen160
+\pgf@yd=\dimen161
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count199
+\c@pgf@countb=\count266
+\c@pgf@countc=\count267
+\c@pgf@countd=\count268
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count269
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count270
+\pgfsyssoftpath@bigbuffer@items=\count271
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\p
+gfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex-dev/graphics\mathco
+lor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
+code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathc
+alc.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathu
+til.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathp
+arser.code.tex
+\pgfmath@dimen=\dimen162
+\pgfmath@count=\count272
+\pgfmath@box=\box52
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.basic.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.trigonometric.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.random.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.comparison.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.base.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.round.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.misc.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+unctions.integerarithmetics.code.tex)))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmathf
+loat.code.tex
+\c@pgfmathroundto@lastzeros=\count273
+))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfint.c
+ode.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen163
+\pgf@picmaxx=\dimen164
+\pgf@picminy=\dimen165
+\pgf@picmaxy=\dimen166
+\pgf@pathminx=\dimen167
+\pgf@pathmaxx=\dimen168
+\pgf@pathminy=\dimen169
+\pgf@pathmaxy=\dimen170
+\pgf@xx=\dimen171
+\pgf@xy=\dimen172
+\pgf@yx=\dimen173
+\pgf@yy=\dimen174
+\pgf@zx=\dimen175
+\pgf@zy=\dimen176
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen177
+\pgf@path@lasty=\dimen178
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen179
+\pgf@shorten@start@additional=\dimen180
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box53
+\pgf@hbox=\box54
+\pgf@layerbox@main=\box55
+\pgf@picture@serial@count=\count274
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen181
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen182
+\pgf@pt@y=\dimen183
+\pgf@pt@temp=\dimen184
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen185
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen186
+\pgf@sys@shading@range@num=\count275
+\pgf@shadingcount=\count276
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box56
+))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\pg
+fcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+duleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box57
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+duleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\p
+gfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen187
+\pgf@nodesepend=\dimen188
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\p
+gfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgffo
+r.sty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfke
+ys.sty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+keys.code.tex))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.st
+y
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
+code.tex))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgf
+for.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.
+code.tex)
+\pgffor@iter=\dimen189
+\pgffor@skip=\dimen190
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pgf
+libraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count277
+\pgfplotmarksize=\dimen191
+)
+\tikz@lastx=\dimen192
+\tikz@lasty=\dimen193
+\tikz@lastxsaved=\dimen194
+\tikz@lastysaved=\dimen195
+\tikz@lastmovetox=\dimen196
+\tikz@lastmovetoy=\dimen197
+\tikzleveldistance=\dimen198
+\tikzsiblingdistance=\dimen199
+\tikz@figbox=\box58
+\tikz@figbox@bg=\box59
+\tikz@tempbox=\box60
+\tikz@tempbox@bg=\box61
+\tikztreelevel=\count278
+\tikznumberofchildren=\count279
+\tikznumberofcurrentchild=\count280
+\tikz@fig@count=\count281
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+dulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count282
+\pgfmatrixcurrentcolumn=\count283
+\pgf@matrix@numberofcolumns=\count284
+)
+\tikz@expandcount=\count285
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgfplots\pgfplots.s
+ty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+core.code.tex
+\t@pgfplots@toka=\toks30
+\t@pgfplots@tokb=\toks31
+\t@pgfplots@tokc=\toks32
+\pgfplots@tmpa=\dimen256
+\c@pgfplots@coordindex=\count286
+\c@pgfplots@scanlineindex=\count287
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/sys\pgfp
+lotssysgeneric.code.tex))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/libs\pgf
+plotslibrary.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/oldpgfco
+mpatib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pgf
+libraryfpu.code.tex))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/util\pgf
+plotsutil.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/liststru
+cture\pgfplotsliststructure.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/liststru
+cture\pgfplotsliststructureext.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/liststru
+cture\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count288
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/liststru
+cture\pgfplotsmatrix.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/numtable
+\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count289
+\t@pgfplotstable@a=\toks33
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/liststru
+cture\pgfplotsdeque.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/util\pgf
+plotsbinary.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/util\pgf
+plotsbinary.data.code.tex))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/util\pgf
+plotsutil.verb.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/libs\pgf
+librarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count290
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/sys\pgfl
+ibrarypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/util\pgf
+plotscolormap.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/util\pgf
+plotscolor.code.tex))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+stackedplots.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+plothandlers.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+meshplothandler.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+meshplotimage.code.tex)))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+.scaling.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+coordprocessing.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+.errorbars.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+.markers.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+ticks.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots\pgfplots
+.paths.code.tex)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmo
+duledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen257
+\pgfdecoratedremainingdistance=\dimen258
+\pgfdecoratedinputsegmentcompleteddistance=\dimen259
+\pgfdecoratedinputsegmentremainingdistance=\dimen260
+\pgf@decorate@distancetomove=\dimen261
+\pgf@decorate@repeatstate=\count291
+\pgfdecorationsegmentamplitude=\dimen262
+\pgfdecorationsegmentlength=\dimen263
+)
+\tikz@lib@dec@box=\box62
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/dec
+orations\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries/dec
+orations\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgfplots/libs\tik
+zlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count292
+\pgfplots@xmin@reg=\dimen264
+\pgfplots@xmax@reg=\dimen265
+\pgfplots@ymin@reg=\dimen266
+\pgfplots@ymax@reg=\dimen267
+\pgfplots@zmin@reg=\dimen268
+\pgfplots@zmax@reg=\dimen269
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pgf
+libraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/chemmacros\chemmacr
+os.sty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys2e
+\l3keys2e.sty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-08-30 L3 programming layer (loader) 
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend
+-pdftex.def
+File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count293
+\l__pdf_internal_box=\box63
+))
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+Package: chemmacros 2022/03/11 v6.2a comprehensive support for typesetting chem
+istry documents (CN & SK)
+\l__chemmacros_tmpa_dim=\dimen270
+\l__chemmacros_tmpb_dim=\dimen271
+\l__chemmacros_tmpc_dim=\dimen272
+\l__chemmacros_tmpa_int=\count294
+\l__chemmacros_tmpb_int=\count295
+\l__chemmacros_tmpc_int=\count296
+\l__chemmacros_tmpa_box=\box64
+\l__chemmacros_tmpb_box=\box65
+\l__chemmacros_tmpc_box=\box66
+Loading the chemmacros module `base' ...
+
+Loading the chemmacros module `base' ...
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\bm.sty
+Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen273
+))
+Loading the chemmacros module `errorcheck' ...
+
+Loading the chemmacros module `errorcheck' ...
+Loading the chemmacros module `lang' ...
+Loading the chemmacros module `lang' ...
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translations\transl
+ations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.s
+ty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count297
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdftexcmds\pdftex
+cmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
+r.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
+sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+Loading the chemmacros module `greek' ...
+
+Loading the chemmacros module `greek' ...
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/chemgreek\chemgreek
+.sty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\x
+parse.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count298
+\g__chemgreek_tmpa_int=\count299
+)
+Loading the chemmacros module `formula' ...
+
+Loading the chemmacros module `formula' ...
+Loading the chemmacros module `charges' ...
+Loading the chemmacros module `charges' ...
+Loading the chemmacros module `acid-base' ...
+Loading the chemmacros module `acid-base' ...
+Loading the chemmacros module `symbols' ...
+Loading the chemmacros module `symbols' ...
+Loading the chemmacros module `particles' ...
+Loading the chemmacros module `particles' ...
+\l__chemmacros_nucleophile_dim=\dimen274
+Loading the chemmacros module `phases' ...
+Loading the chemmacros module `phases' ...
+\l__chemmacros_phases_space_dim=\dimen275
+Loading the chemmacros module `nomenclature' ...
+Loading the chemmacros module `nomenclature' ...
+\l__chemmacros_cip_kern_dim=\dimen276
+\l__chemmacros_iupac_hyphen_pre_dim=\dimen277
+\l__chemmacros_iupac_hyphen_post_dim=\dimen278
+\l__chemmacros_iupac_break_dim=\dimen279
+\l__chemmacros_iupac_break_skip=\skip49
+Loading the chemmacros module `tikz' ...
+Loading the chemmacros module `tikz' ...
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+\l__chemmacros_el_length_dim=\dimen280
+Loading the chemmacros module `isotopes' ...
+
+Loading the chemmacros module `isotopes' ...
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/elements\elements.s
+ty
+Package: elements 2022/01/29 v0.4 properties of chemical elements
+\c@@elements@orbital@type=\count300
+\c@@elements@shell@number=\count301
+)
+Loading the chemmacros module `mechanisms' ...
+
+Loading the chemmacros module `mechanisms' ...
+Loading the chemmacros module `newman' ...
+Loading the chemmacros module `newman' ...
+Loading the chemmacros module `orbital' ...
+Loading the chemmacros module `orbital' ...
+Loading the chemmacros module `polymers' ...
+Loading the chemmacros module `polymers' ...
+\l__chemmacros_polymer_delimiter_height_dim=\dimen281
+\l__chemmacros_polymer_delimiter_depth_dim=\dimen282
+Loading the chemmacros module `reactions' ...
+Loading the chemmacros module `reactions' ...
+\c@reaction=\count302
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mathtools
+.sty
+Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
+ (C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count303
+\calc@Bcount=\count304
+\calc@Adimen=\dimen283
+\calc@Bdimen=\dimen284
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count305
+\calc@Cskip=\skip52
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetup.s
+ty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip53
+For additional information on amsmath, use the `?' option.
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen285
+) (C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count306
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count307
+\leftroot@=\count308
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count309
+\DOTSCASE@=\count310
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box67
+\strutbox@=\box68
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen286
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count311
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count312
+\dotsspace@=\muskip16
+\c@parentequation=\count313
+\dspbrk@lvl=\count314
+\tag@help=\toks35
+\row@=\count315
+\column@=\count316
+\maxfields@=\count317
+\andhelp@=\toks36
+\eqnshift@=\dimen287
+\alignsep@=\dimen288
+\tagshift@=\dimen289
+\tagwidth@=\dimen290
+\totwidth@=\dimen291
+\lineht@=\dimen292
+\@envbody=\toks37
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+\g_MT_multlinerow_int=\count318
+\l_MT_multwidth_dim=\dimen293
+\origjot=\skip56
+\l_MT_shortvdotswithinadjustabove_dim=\dimen294
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen295
+\l_MT_above_intertext_sep=\dimen296
+\l_MT_below_intertext_sep=\dimen297
+\l_MT_above_shortintertext_sep=\dimen298
+\l_MT_below_shortintertext_sep=\dimen299
+\xmathstrut@box=\box69
+\xmathstrut@dim=\dimen300
+)
+Loading the chemmacros module `redox' ...
+
+Loading the chemmacros module `redox' ...
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\l__chemmacros_ox_number_int=\count319
+\l__chemmacros_redox_sep_dim=\dimen301
+\l__chemmacros_redox_sep_default_dim=\dimen302
+\l__chemmacros_redox_dist_dim=\dimen303
+Loading the chemmacros module `xfrac' ...
+
+Loading the chemmacros module `xfrac' ...
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xfrac\xf
+rac.sty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xtemplat
+e\xtemplate.sty
+Package: xtemplate 2022-06-22 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen304
+\l__xtemplate_tmp_int=\count320
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip57
+)
+Package: xfrac 2022-06-22 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box70
+\l__xfrac_tmp_box=\box71
+\l__xfrac_denominator_bot_sep_dim=\dimen305
+\l__xfrac_numerator_bot_sep_dim=\dimen306
+\l__xfrac_numerator_top_sep_dim=\dimen307
+\l__xfrac_slash_left_sep_dim=\dimen308
+\l__xfrac_slash_right_sep_dim=\dimen309
+\l__xfrac_slash_left_muskip=\muskip18
+\l__xfrac_slash_right_muskip=\muskip19
+
+Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
+(xtemplate)             line 80.
+
+)
+Loading the chemmacros module `scheme' ...
+
+Loading the chemmacros module `scheme' ...
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/chemnum\chemnum.sty
+Package: chemnum 2021/01/21 v1.3a a comprehensive approach for the numbering of
+ chemical compounds (CN)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psfrag\psfrag.sty
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+\pfg@pcount=\count321
+\pfg@scount=\count322
+\pfg@temp=\write4
+)
+\l__chemnum_tmpa_int=\count323
+\l__chemnum_tmpb_int=\count324
+\l__chemnum_tmpc_int=\count325
+\c@cmpdmain=\count326
+\g__chemnum_main_int=\count327
+\l__chemnum_compound_replace_int=\count328
+)
+Loading the chemmacros module `spectroscopy' ...
+Loading the chemmacros module `spectroscopy' ...
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2022-09-07 v3.1.7 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen310
+\l__siunitx_angle_marker_box=\box72
+\l__siunitx_angle_unit_box=\box73
+\l__siunitx_compound_count_int=\count329
+\l__siunitx_number_exponent_fixed_int=\count330
+\l__siunitx_number_min_decimal_int=\count331
+\l__siunitx_number_min_integer_int=\count332
+\l__siunitx_number_round_precision_int=\count333
+\l__siunitx_number_group_first_int=\count334
+\l__siunitx_number_group_size_int=\count335
+\l__siunitx_number_group_minimum_int=\count336
+\l__siunitx_table_tmp_box=\box74
+\l__siunitx_table_tmp_dim=\dimen311
+\l__siunitx_table_column_width_dim=\dimen312
+\l__siunitx_table_integer_box=\box75
+\l__siunitx_table_decimal_box=\box76
+\l__siunitx_table_before_box=\box77
+\l__siunitx_table_after_box=\box78
+\l__siunitx_table_before_dim=\dimen313
+\l__siunitx_table_carry_dim=\dimen314
+\l__siunitx_unit_tmp_int=\count337
+\l__siunitx_unit_position_int=\count338
+\l__siunitx_unit_total_int=\count339
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen315
+\ar@mcellbox=\box79
+\extrarowheight=\dimen316
+\NC@list=\toks39
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box80
+))
+\l__chemmacros_nmr_space_skip=\skip60
+Loading the chemmacros module `thermodynamics' ...
+
+Loading the chemmacros module `thermodynamics' ...
+Loading the chemmacros module `units' ...
+Loading the chemmacros module `units' ...
+Loading the chemmacros module `reactants' ...
+Loading the chemmacros module `reactants' ...
+Loading the chemmacros module `translations' ...
+Loading the chemmacros module `translations' ...
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/chemfig\chemfig.sty
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/chemfig\chemfig.t
+ex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/simplekv\simplekv
+.tex
+Package: simplekv 2020/04/27 v0.2 Simple keyval package (CT)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pgf
+libraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen317
+\pgfarrowlength=\dimen318
+\pgfarrowwidth=\dimen319
+\pgfarrowlinewidth=\dimen320
+)
+\CF_cntatomgroup=\count340
+\CF_cntgroup=\count341
+\CF_cntatom=\count342
+\CF_cntcycle=\count343
+\CF_cntcyclebonds=\count344
+\CF_cntcompound=\count345
+\CF_dim=\dimen321
+\CF_arrowsize=\dimen322
+\CF_zero=\dimen323
+\CF_box=\box81
+\CF_boxstuff=\box82
+\CF_testbox=\box83
+\CF_chargebox=\box84
+\CF_substtoks=\toks40
+)
+Package: chemfig 2021/08/01 v1.6b Draw molecule with an easy syntax (CT)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/esint\esint.sty
+Package: esint 
+\symlargesymbolsA=\mathgroup7
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tabularray\tabularr
+ay.sty
+Package: tabularray 2022-07-01 v2022C Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count346
+\l__tblr_c_int=\count347
+\l__tblr_r_int=\count348
+\l__tblr_d_dim=\dimen324
+\l__tblr_h_dim=\dimen325
+\l__tblr_o_dim=\dimen326
+\l__tblr_p_dim=\dimen327
+\l__tblr_q_dim=\dimen328
+\l__tblr_r_dim=\dimen329
+\l__tblr_s_dim=\dimen330
+\l__tblr_t_dim=\dimen331
+\l__tblr_v_dim=\dimen332
+\l__tblr_w_dim=\dimen333
+\l__tblr_a_box=\box85
+\l__tblr_b_box=\box86
+\l__tblr_c_box=\box87
+\l__tblr_d_box=\box88
+\g__tblr_table_count_int=\count349
+\c@rownum=\count350
+\c@colnum=\count351
+\c@rowcount=\count352
+\c@colcount=\count353
+\abovesep=\dimen334
+\belowsep=\dimen335
+\leftsep=\dimen336
+\rightsep=\dimen337
+\g_tblr_level_int=\count354
+\g__tblr_data_row_key_count_int=\count355
+\g__tblr_data_column_key_count_int=\count356
+\g__tblr_data_cell_key_count_int=\count357
+\g__tblr_array_int=\count358
+\l__tblr_key_count_int=\count359
+\l__tblr_key_quotient_int=\count360
+\l__tblr_key_quotient_two_int=\count361
+\l__tblr_key_remainder_int=\count362
+\g__tblr_data_str_value_count_int=\count363
+\rulewidth=\dimen338
+\l__tblr_strut_dp_dim=\dimen339
+\l__tblr_strut_ht_dim=\dimen340
+\g__tblr_cell_wd_dim=\dimen341
+\g__tblr_cell_ht_dim=\dimen342
+\g__tblr_cell_head_dim=\dimen343
+\g__tblr_cell_foot_dim=\dimen344
+\l__column_target_dim=\dimen345
+\l__tblr_caption_box=\box89
+\l__tblr_caption_left_box=\box90
+\l__tblr_row_head_box=\box91
+\l__tblr_row_foot_box=\box92
+\l__tblr_row_head_foot_dim=\dimen346
+\tablewidth=\dimen347
+\l__tblr_table_firsthead_box=\box93
+\l__tblr_table_middlehead_box=\box94
+\l__tblr_table_lasthead_box=\box95
+\l__tblr_table_firstfoot_box=\box96
+\l__tblr_table_middlefoot_box=\box97
+\l__tblr_table_lastfoot_box=\box98
+\l__tblr_remain_height_dim=\dimen348
+\l__tblr_long_from_int=\count364
+\l__tblr_long_to_int=\count365
+\l__tblr_curr_i_int=\count366
+\l__tblr_prev_i_int=\count367
+\l__tblr_table_page_int=\count368
+\l__tblr_table_head_box=\box99
+\l__tblr_table_foot_box=\box100
+\l__tblr_table_head_foot_dim=\dimen349
+\l__tblr_table_head_body_foot_dim=\dimen350
+\l__tblr_table_box=\box101
+\l__tblr_table_hlines_box=\box102
+\l__tblr_hline_box=\box103
+\l__tblr_row_box=\box104
+\l__tblr_col_o_wd_dim=\dimen351
+\l__tblr_col_b_wd_dim=\dimen352
+\l__tblr_hline_leftskip_dim=\dimen353
+\l__tblr_hline_rightskip_dim=\dimen354
+\l__tblr_row_ht_dim=\dimen355
+\l__tblr_row_dp_dim=\dimen356
+\l__tblr_row_abovesep_dim=\dimen357
+\l__tblr_row_belowsep_dim=\dimen358
+\l__tblr_row_vlines_box=\box105
+\l__tblr_vline_box=\box106
+\l__tblr_cell_box=\box107
+\l__row_upper_dim=\dimen359
+\l__row_lower_dim=\dimen360
+\l__row_vpace_dim=\dimen361
+\l__tblr_vline_aboveskip_dim=\dimen362
+\l__tblr_vline_belowskip_dim=\dimen363
+\l__tblr_cell_wd_dim=\dimen364
+\l__tblr_cell_ht_dim=\dimen365
+\l__tblr_diag_box=\box108
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
+df.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
+keys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
+s.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
+.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.st
+y
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
+df-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\epstopdf-s
+ys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.st
+y
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.s
+ty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup8
+\symAMSb=\mathgroup9
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\mathrsfs.s
+ty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup10
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.s
+ty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip61
+\enit@outerparindent=\dimen366
+\enit@toks=\toks41
+\enit@inbox=\box109
+\enit@count@id=\count369
+\enitdp@description=\count370
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\varioref.sty
+Package: varioref 2021/07/07 v1.6f package for extended references (FMi)
+\c@vrcnt=\count371
+) (C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.sty
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count372
+\l__lipsum_a_int=\count373
+\l__lipsum_b_int=\count374
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.ltd.t
+ex))
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.s
+ty
+Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip62
+\f@nch@O@elh=\skip63
+\f@nch@O@erh=\skip64
+\f@nch@O@olh=\skip65
+\f@nch@O@orh=\skip66
+\f@nch@O@elf=\skip67
+\f@nch@O@erf=\skip68
+\f@nch@O@olf=\skip69
+\f@nch@O@orf=\skip70
+) (C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count375
+\float@exts=\toks42
+\float@box=\box110
+\@float@everytoks=\toks43
+\@floatcapt=\box111
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\empheq.st
+y
+Package: empheq 2017/03/31 v2.15 Emphasizing equations
+\l_EQ_equationtype_int=\count376
+\l_EQ_alignmentmode_int=\count377
+\l_EQ_totalwidth_dim=\dimen367
+\l_EQ_displaywidth_dim=\dimen368
+\l_EQ_temp_linewidth_dim=\dimen369
+\l_EQ_linewidth_dim=\dimen370
+\EmphEqdelimitershortfall=\dimen371
+\EmphEqdelimiterfactor=\count378
+\g_EQ_toptag_height_dim=\dimen372
+\g_EQ_bottomtag_depth_dim=\dimen373
+\g_EQ_toprow_height_dim=\dimen374
+\g_EQ_bottomrow_depth_dim=\dimen375
+\g_EQ_widesttag_dim=\dimen376
+\EQ_mathdisplay_box=\box112
+\EQ_tag_box=\box113
+\g_EQ_temprow_int=\count379
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mdframed\mdframed.s
+ty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\zref-abspa
+ge.sty
+Package: zref-abspage 2018/11/21 v2.27 Module abspage for zref (HO)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\zref-base.
+sty
+Package: zref-base 2018/11/21 v2.27 Module base for zref (HO)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.st
+y
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 762.
+Package zref Info: New property: default on input line 763.
+Package zref Info: New property: page on input line 764.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\atbegshi-ltx.s
+ty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\c@abspage=\count380
+Package zref Info: New property: abspage on input line 65.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/needspace\needspace
+.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip71
+\c@mdf@globalstyle@cnt=\count381
+\mdf@skipabove@length=\skip72
+\mdf@skipbelow@length=\skip73
+\mdf@leftmargin@length=\skip74
+\mdf@rightmargin@length=\skip75
+\mdf@innerleftmargin@length=\skip76
+\mdf@innerrightmargin@length=\skip77
+\mdf@innertopmargin@length=\skip78
+\mdf@innerbottommargin@length=\skip79
+\mdf@splittopskip@length=\skip80
+\mdf@splitbottomskip@length=\skip81
+\mdf@outermargin@length=\skip82
+\mdf@innermargin@length=\skip83
+\mdf@linewidth@length=\skip84
+\mdf@innerlinewidth@length=\skip85
+\mdf@middlelinewidth@length=\skip86
+\mdf@outerlinewidth@length=\skip87
+\mdf@roundcorner@length=\skip88
+\mdf@footenotedistance@length=\skip89
+\mdf@userdefinedwidth@length=\skip90
+\mdf@needspace@length=\skip91
+\mdf@frametitleaboveskip@length=\skip92
+\mdf@frametitlebelowskip@length=\skip93
+\mdf@frametitlerulewidth@length=\skip94
+\mdf@frametitleleftmargin@length=\skip95
+\mdf@frametitlerightmargin@length=\skip96
+\mdf@shadowsize@length=\skip97
+\mdf@extratopheight@length=\skip98
+\mdf@subtitleabovelinewidth@length=\skip99
+\mdf@subtitlebelowlinewidth@length=\skip100
+\mdf@subtitleaboveskip@length=\skip101
+\mdf@subtitlebelowskip@length=\skip102
+\mdf@subtitleinneraboveskip@length=\skip103
+\mdf@subtitleinnerbelowskip@length=\skip104
+\mdf@subsubtitleabovelinewidth@length=\skip105
+\mdf@subsubtitlebelowlinewidth@length=\skip106
+\mdf@subsubtitleaboveskip@length=\skip107
+\mdf@subsubtitlebelowskip@length=\skip108
+\mdf@subsubtitleinneraboveskip@length=\skip109
+\mdf@subsubtitleinnerbelowskip@length=\skip110
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mdframed\md-frame-1
+.mdf
+File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
+)
+\mdf@frametitlebox=\box114
+\mdf@footnotebox=\box115
+\mdf@splitbox@one=\box116
+\mdf@splitbox@two=\box117
+\mdf@splitbox@save=\box118
+\mdfsplitboxwidth=\skip111
+\mdfsplitboxtotalwidth=\skip112
+\mdfsplitboxheight=\skip113
+\mdfsplitboxdepth=\skip114
+\mdfsplitboxtotalheight=\skip115
+\mdfframetitleboxwidth=\skip116
+\mdfframetitleboxtotalwidth=\skip117
+\mdfframetitleboxheight=\skip118
+\mdfframetitleboxdepth=\skip119
+\mdfframetitleboxtotalheight=\skip120
+\mdffootnoteboxwidth=\skip121
+\mdffootnoteboxtotalwidth=\skip122
+\mdffootnoteboxheight=\skip123
+\mdffootnoteboxdepth=\skip124
+\mdffootnoteboxtotalheight=\skip125
+\mdftotallinewidth=\skip126
+\mdfboundingboxwidth=\skip127
+\mdfboundingboxtotalwidth=\skip128
+\mdfboundingboxheight=\skip129
+\mdfboundingboxdepth=\skip130
+\mdfboundingboxtotalheight=\skip131
+\mdf@freevspace@length=\skip132
+\mdf@horizontalwidthofbox@length=\skip133
+\mdf@verticalmarginwhole@length=\skip134
+\mdf@horizontalspaceofbox=\skip135
+\mdfsubtitleheight=\skip136
+\mdfsubsubtitleheight=\skip137
+\c@mdfcountframes=\count382
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count383
+\c@mdf@env@i=\count384
+\c@mdf@env@ii=\count385
+\c@mdf@zref@counter=\count386
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen377
+\ESO@tempdimb=\dimen378
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ncctools\nccmath.st
+y
+Package: nccmath 2006/01/20 v1.3 Additional Math Commands (NCC)
+\NCC@fracrulewidth=\dimen379
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.st
+y
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen380
+\captionmargin=\dimen381
+\caption@leftmargin=\dimen382
+\caption@rightmargin=\dimen383
+\caption@width=\dimen384
+\caption@indent=\dimen385
+\caption@parindent=\dimen386
+\caption@hangindent=\dimen387
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count387
+\c@continuedfloat=\count388
+Package caption Info: float package is loaded.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaption.
+sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count389
+\c@subtable=\count390
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks44
+\thm@bodyfont=\toks45
+\thm@headfont=\toks46
+\thm@notefont=\toks47
+\thm@headpunct=\toks48
+\thm@preskip=\skip138
+\thm@postskip=\skip139
+\thm@headsep=\skip140
+\dth@everypar=\toks49
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen388
+\epsfysize=\dimen389
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip141
+\thanksmargin=\skip142
+\droptitle=\skip143
+) (C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty
+\Urlmuskip=\muskip20
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/footmisc\footmisc.s
+ty
+Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
+\FN@temptoken=\toks50
+\footnotemargin=\dimen390
+\@outputbox@depth=\dimen391
+Package footmisc Info: Declaring symbol style bringhurst on input line 695.
+Package footmisc Info: Declaring symbol style chicago on input line 703.
+Package footmisc Info: Declaring symbol style wiley on input line 712.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 743.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count391
+\mult@box=\box119
+\multicol@leftmargin=\dimen392
+\c@unbalance=\count392
+\c@collectmore=\count393
+\doublecol@number=\count394
+\multicoltolerance=\count395
+\multicolpretolerance=\count396
+\full@width=\dimen393
+\page@free=\dimen394
+\premulticols=\dimen395
+\postmulticols=\dimen396
+\multicolsep=\skip144
+\multicolbaselineskip=\skip145
+\partial@page=\box120
+\last@line=\box121
+\maxbalancingoverflow=\dimen397
+\mult@rightbox=\box122
+\mult@grightbox=\box123
+\mult@firstbox=\box124
+\mult@gfirstbox=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\@tempa=\box131
+\@tempa=\box132
+\@tempa=\box133
+\@tempa=\box134
+\@tempa=\box135
+\@tempa=\box136
+\@tempa=\box137
+\@tempa=\box138
+\@tempa=\box139
+\@tempa=\box140
+\@tempa=\box141
+\@tempa=\box142
+\@tempa=\box143
+\@tempa=\box144
+\@tempa=\box145
+\@tempa=\box146
+\@tempa=\box147
+\@tempa=\box148
+\@tempa=\box149
+\@tempa=\box150
+\@tempa=\box151
+\@tempa=\box152
+\@tempa=\box153
+\@tempa=\box154
+\@tempa=\box155
+\@tempa=\box156
+\@tempa=\box157
+\@tempa=\box158
+\@tempa=\box159
+\@tempa=\box160
+\@tempa=\box161
+\c@minrows=\count397
+\c@columnbadness=\count398
+\c@finalcolumnbadness=\count399
+\last@try=\dimen398
+\multicolovershoot=\dimen399
+\multicolundershoot=\dimen400
+\mult@nat@firstbox=\box162
+\colbreak@box=\box163
+\mc@col@check@num=\count400
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/boondox\boondox-cal
+.sty
+
+LaTeX Warning: You have requested package `boondox-cal',
+               but the package provides `BOONDOX-cal'.
+
+Package: BOONDOX-cal 2017/02/25 v1.02 U/BOONDOX-cal
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.t
+ex
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.
+tex
+\XKV@toks=\toks51
+\XKV@tempa@toks=\toks52
+)
+\XKV@depth=\count401
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  U/BOONDOX-cal/m/n --> U/BOONDOX-cal/b/n on input line 1
+1.
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs.s
+ty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen401
+\lightrulewidth=\dimen402
+\cmidrulewidth=\dimen403
+\belowrulesep=\dimen404
+\belowbottomsep=\dimen405
+\aboverulesep=\dimen406
+\abovetopsep=\dimen407
+\cmidrulesep=\dimen408
+\cmidrulekern=\dimen409
+\defaultaddspace=\dimen410
+\@cmidla=\count402
+\@cmidlb=\count403
+\@aboverulesep=\dimen411
+\@belowrulesep=\dimen412
+\@thisruleclass=\count404
+\@lastruleclass=\count405
+\@thisrulewidth=\dimen413
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\blindtext
+.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count406
+\c@Blindtext=\count407
+\c@blind@countparstart=\count408
+\blind@countxx=\count409
+\blindtext@numBlindtext=\count410
+\blind@countyy=\count411
+\c@blindlist=\count412
+\c@blindlistlevel=\count413
+\c@blindlist@level=\count414
+\blind@listitem=\count415
+\c@blind@listcount=\count416
+\c@blind@levelcount=\count417
+\blind@mathformula=\count418
+\blind@Mathformula=\count419
+\c@blind@randomcount=\count420
+\c@blind@randommax=\count421
+\c@blind@pangramcount=\count422
+\c@blind@pangrammax=\count423
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace.s
+ty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+
+Package amsthm Warning: Unknown theoremstyle `it' on input line 96.
+
+\c@defn=\count424
+\c@assumption=\count425
+\c@thm=\count426
+\c@lemma=\count427
+\c@example=\count428
+
+Package chemmacros Info: You haven't chosen a formula method so I'm assuming
+(chemmacros)             the default method `chemformula'.
+
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/chemformula\chemfor
+mula.sty
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip146
+\L@UnitsRaiseTextstyle=\skip147
+\L@UnitsRaiseScriptstyle=\skip148
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+))
+Package: chemformula 2022/01/23 v4.17 typeset chemical compounds and reactions 
+(CN)
+\l__chemformula_tmpa_dim=\dimen414
+\l__chemformula_tmpb_dim=\dimen415
+\l__chemformula_tmpc_dim=\dimen416
+\l__chemformula_tmpa_int=\count429
+\l__chemformula_tmpb_int=\count430
+\l__chemformula_tmpc_int=\count431
+\l__chemformula_tmpa_box=\box164
+\l__chemformula_tmpb_box=\box165
+\l__chemformula_arrow_length_dim=\dimen417
+\l__chemformula_arrow_label_height_dim=\dimen418
+\l__chemformula_arrow_label_offset_dim=\dimen419
+\l__chemformula_arrow_minimum_length_dim=\dimen420
+\l__chemformula_arrow_shortage_dim=\dimen421
+\l__chemformula_arrow_offset_dim=\dimen422
+\l__chemformula_arrow_yshift_dim=\dimen423
+\l__chemformula_radical_radius_dim=\dimen424
+\l__chemformula_radical_hshift_dim=\dimen425
+\l__chemformula_radical_vshift_dim=\dimen426
+\l__chemformula_radical_space_dim=\dimen427
+\l__chemformula_arrow_head_dim=\dimen428
+\l__chemformula_name_dim=\dimen429
+\l__chemformula_adduct_space_dim=\dimen430
+\l__chemformula_charge_shift_dim=\dimen431
+\l__chemformula_subscript_shift_dim=\dimen432
+\l__chemformula_superscript_shift_dim=\dimen433
+\l__chemformula_subscript_dim=\dimen434
+\l__chemformula_superscript_dim=\dimen435
+\l__chemformula_bond_dim=\dimen436
+\l__chemformula_bond_space_dim=\dimen437
+\l__chemformula_elspec_pair_distance_dim=\dimen438
+\l__chemformula_elspec_pair_line_length_dim=\dimen439
+\l__chemformula_elspec_pair_width_dim=\dimen440
+\l__chemformula_kroegervink_positive_radius_dim=\dimen441
+\l__chemformula_kroegervink_positive_hshift_dim=\dimen442
+\l__chemformula_kroegervink_positive_vshift_dim=\dimen443
+\l__chemformula_kroegervink_positive_space_dim=\dimen444
+\l__chemformula_stoich_space_skip=\skip149
+\l__chemformula_math_space_skip=\skip150
+\l__chemformula_additions_symbol_space_skip=\skip151
+\l__chemformula_count_tokens_int=\count432
+\g__chemformula_lewis_int=\count433
+\l__chemformula_arrow_arg_i_box=\box166
+\l__chemformula_arrow_arg_ii_box=\box167
+\l__chemformula_superscript_box=\box168
+\l__chemformula_subscript_box=\box169
+\l__chemformula_plus_space_skip=\skip152
+\l__chemformula_minus_space_skip=\skip153
+)
+
+Package chemmacros Info: Using float defining method `float'.
+
+\@float@every@scheme=\toks53
+\c@scheme=\count434
+
+(im_model_and_ctrl.aux
+
+LaTeX Warning: Label `eq27' multiply defined.
+
+
+LaTeX Warning: Label `eq34a' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `im_model_and_ctrl.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(90.3375pt, 664.37186pt, 90.3375pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=664.37186pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-13.80629pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=53.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count435
+\scratchdimen=\dimen445
+\scratchbox=\box170
+\nofMPsegments=\count436
+\nofMParguments=\count437
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count438
+\MPscratchDim=\dimen446
+\MPnumerator=\count439
+\makeMPintoPDFobject=\count440
+\everyMPtoPDFconversion=\toks55
+)
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
+
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translations/dicts\
+translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translations/dicts\
+translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 143.
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translations/dicts\
+translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 143.
+
+Package chemgreek Info: Activating mapping `default' on line 143.
+
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ninecolors\ninecolo
+rs.sty
+Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
+
+)
+\Hy@linkcounter=\count441
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\symgns@font=\mathgroup11
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 143.
+Package gensymb Info: Math companion symbols declared on input line 143.
+LaTeX Info: Redefining \degree on input line 143.
+LaTeX Info: Redefining \celsius on input line 143.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 143.
+LaTeX Info: Redefining \ohm on input line 143.
+Package gensymb Info: Using \textohm for \ohm on input line 143.
+LaTeX Info: Redefining \micro on input line 143.
+Package gensymb Info: Using \textmu for \micro on input line 143.
+
+
+Package chemmacros Warning: You haven't loaded any package for upright Greek
+(chemmacros)                letters or no unique choice was possible. Either
+(chemmacros)                load one of packages specified in the manual or
+(chemmacros)                select a chemgreek mapping manually.
+
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/elements\elements_n
+ames_english.def)
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 146.
+LaTeX Font Info:    Trying to load font information for U+esint on input line 1
+46.
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/esint\uesint.fd
+File: uesint.fd 
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 146
+.
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 146
+.
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 14
+6.
+
+(C:\Users\dbagn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Package mdframed Info: Not enough space on this page on input line 148.
+
+[1
+Non-PDF special ignored!
+<special> header=psfrag.pro
+
+
+{C:/Users/dbagn/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map}]
+(im_model_and_ctrl.toc)
+\tf@toc=\write5
+\openout5 = `im_model_and_ctrl.toc'.
+
+ [2
+
+] (im_model_and_ctrl.lof)
+\tf@lof=\write6
+\openout6 = `im_model_and_ctrl.lof'.
+
+ [3
+
+] (im_model_and_ctrl.lot)
+\tf@lot=\write7
+\openout7 = `im_model_and_ctrl.lot'.
+
+[4
+
+]
+Chapter 1.
+[5
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6]
+Chapter 2.
+[7
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9]
+Chapter 3.
+[10
+
+]
+Package epstopdf Info: Source file: <figures/stator_equivalent_circuit.eps>
+(epstopdf)                    date: 2020-01-27 21:18:57
+(epstopdf)                    size: 1442394 bytes
+(epstopdf)             Output file: <figures/stator_equivalent_circuit-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2022-07-28 13:08:21
+(epstopdf)                    size: 17993 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/stator_equivalent_circuit-eps-converted-to.pdf figures/stator_equivalent_circu
+it.eps>
+(epstopdf)             \includegraphics on input line 331.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/stator_equivalent_circuit-eps-conv
+erted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
+> allowed
+<figures/stator_equivalent_circuit-eps-converted-to.pdf, id=48, 380.42125pt x 2
+26.8475pt>
+File: figures/stator_equivalent_circuit-eps-converted-to.pdf Graphic file (type
+ pdf)
+<use figures/stator_equivalent_circuit-eps-converted-to.pdf>
+Package pdftex.def Info: figures/stator_equivalent_circuit-eps-converted-to.pdf
+  used on input line 331.
+(pdftex.def)             Requested size: 225.0pt x 134.17116pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[11]
+Package epstopdf Info: Source file: <figures/rotor_equivalent_circuit.eps>
+(epstopdf)                    date: 2020-01-27 21:38:54
+(epstopdf)                    size: 1340854 bytes
+(epstopdf)             Output file: <figures/rotor_equivalent_circuit-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2022-07-28 13:08:23
+(epstopdf)                    size: 14061 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/rotor_equivalent_circuit-eps-converted-to.pdf figures/rotor_equivalent_circuit
+.eps>
+(epstopdf)             \includegraphics on input line 355.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/rotor_equivalent_circuit-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<figures/rotor_equivalent_circuit-eps-converted-to.pdf, id=59, 254.9525pt x 198
+.7425pt>
+File: figures/rotor_equivalent_circuit-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use figures/rotor_equivalent_circuit-eps-converted-to.pdf>
+Package pdftex.def Info: figures/rotor_equivalent_circuit-eps-converted-to.pdf 
+ used on input line 355.
+(pdftex.def)             Requested size: 150.0pt x 116.9356pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[12 <./figures/stator_equivalent_circuit-eps-converted-to.pdf> <./figures/rotor
+_equivalent_circuit-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/equivalent_circuit.eps>
+(epstopdf)                    date: 2020-01-26 21:21:27
+(epstopdf)                    size: 1508710 bytes
+(epstopdf)             Output file: <figures/equivalent_circuit-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2022-07-28 13:08:24
+(epstopdf)                    size: 18960 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/equivalent_circuit-eps-converted-to.pdf figures/equivalent_circuit.eps>
+(epstopdf)             \includegraphics on input line 382.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/equivalent_circuit-eps-converted-t
+o.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+<figures/equivalent_circuit-eps-converted-to.pdf, id=88, 514.92375pt x 226.8475
+pt>
+File: figures/equivalent_circuit-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/equivalent_circuit-eps-converted-to.pdf>
+Package pdftex.def Info: figures/equivalent_circuit-eps-converted-to.pdf  used 
+on input line 382.
+(pdftex.def)             Requested size: 275.0pt x 121.15279pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[13 <./figures/equivalent_circuit-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14]
+Chapter 4.
+Package epstopdf Info: Source file: <figures/no_load_test.eps>
+(epstopdf)                    date: 2022-09-29 15:46:01
+(epstopdf)                    size: 1364130 bytes
+(epstopdf)             Output file: <figures/no_load_test-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2022-09-29 15:46:46
+(epstopdf)                    size: 15606 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/no_load_test-eps-converted-to.pdf figures/no_load_test.eps>
+(epstopdf)             \includegraphics on input line 427.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/no_load_test-eps-converted-to.pdf)
+: PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figures/no_load_test-eps-converted-to.pdf, id=112, 271.0125pt x 189.70876pt>
+File: figures/no_load_test-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/no_load_test-eps-converted-to.pdf>
+Package pdftex.def Info: figures/no_load_test-eps-converted-to.pdf  used on inp
+ut line 427.
+(pdftex.def)             Requested size: 175.0pt x 122.50449pt.
+[15
+
+]
+Package epstopdf Info: Source file: <figures/rotor_res_effects_2.eps>
+(epstopdf)                    date: 2022-09-30 14:58:51
+(epstopdf)                    size: 1691002 bytes
+(epstopdf)             Output file: <figures/rotor_res_effects_2-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2022-09-30 14:59:03
+(epstopdf)                    size: 27148 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/rotor_res_effects_2-eps-converted-to.pdf figures/rotor_res_effects_2.eps>
+(epstopdf)             \includegraphics on input line 439.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/rotor_res_effects_2-eps-converted-
+to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allo
+wed
+<figures/rotor_res_effects_2-eps-converted-to.pdf, id=116, 472.76625pt x 389.45
+5pt>
+File: figures/rotor_res_effects_2-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/rotor_res_effects_2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/rotor_res_effects_2-eps-converted-to.pdf  used
+ on input line 439.
+(pdftex.def)             Requested size: 275.0pt x 226.54367pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[16 <./figures/no_load_test-eps-converted-to.pdf> <./figures/rotor_res_effects_
+2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/rotor_locked_test.eps>
+(epstopdf)                    date: 2022-09-29 15:46:36
+(epstopdf)                    size: 1428594 bytes
+(epstopdf)             Output file: <figures/rotor_locked_test-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2022-09-29 15:46:48
+(epstopdf)                    size: 14927 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/rotor_locked_test-eps-converted-to.pdf figures/rotor_locked_test.eps>
+(epstopdf)             \includegraphics on input line 474.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/rotor_locked_test-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<figures/rotor_locked_test-eps-converted-to.pdf, id=147, 413.545pt x 189.70876p
+t>
+File: figures/rotor_locked_test-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/rotor_locked_test-eps-converted-to.pdf>
+Package pdftex.def Info: figures/rotor_locked_test-eps-converted-to.pdf  used o
+n input line 474.
+(pdftex.def)             Requested size: 250.0pt x 114.68585pt.
+
+Underfull \hbox (badness 1077) in paragraph at lines 476--476
+[]\OT1/cmr/m/n/10 Figure 4.3: |In-duc-tion mo-tor equiv-a-lent cir-cuit:
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[17]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[18 <./figures/rotor_locked_test-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[19]
+Chapter 5.
+[20
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[21]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[22]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[23]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[24]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[25]
+Chapter 6.
+[26
+
+]
+Package epstopdf Info: Source file: <figures/stationary_rotating_reference_fram
+es.eps>
+(epstopdf)                    date: 2022-10-03 11:07:07
+(epstopdf)                    size: 1519022 bytes
+(epstopdf)             Output file: <figures/stationary_rotating_reference_fram
+es-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-10-03 11:16:21
+(epstopdf)                    size: 23996 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/stationary_rotating_reference_frames-eps-converted-to.pdf figures/stationary_r
+otating_reference_frames.eps>
+(epstopdf)             \includegraphics on input line 766.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/stationary_rotating_reference_fram
+es-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most v
+ersion <1.5> allowed
+<figures/stationary_rotating_reference_frames-eps-converted-to.pdf, id=193, 309
+.155pt x 348.30125pt>
+File: figures/stationary_rotating_reference_frames-eps-converted-to.pdf Graphic
+ file (type pdf)
+<use figures/stationary_rotating_reference_frames-eps-converted-to.pdf>
+Package pdftex.def Info: figures/stationary_rotating_reference_frames-eps-conve
+rted-to.pdf  used on input line 766.
+(pdftex.def)             Requested size: 200.0pt x 225.3302pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[27]
+Package epstopdf Info: Source file: <figures/reference_frames_2.eps>
+(epstopdf)                    date: 2022-09-30 16:02:18
+(epstopdf)                    size: 1650586 bytes
+(epstopdf)             Output file: <figures/reference_frames_2-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2022-09-30 16:02:34
+(epstopdf)                    size: 20560 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/reference_frames_2-eps-converted-to.pdf figures/reference_frames_2.eps>
+(epstopdf)             \includegraphics on input line 809.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/reference_frames_2-eps-converted-t
+o.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+<figures/reference_frames_2-eps-converted-to.pdf, id=197, 568.1225pt x 186.6975
+pt>
+File: figures/reference_frames_2-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/reference_frames_2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/reference_frames_2-eps-converted-to.pdf  used 
+on input line 809.
+(pdftex.def)             Requested size: 400.0pt x 131.45367pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[28 <./figures/stationary_rotating_reference_frames-eps-converted-to.pdf> <./fi
+gures/reference_frames_2-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[29]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[30]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1113.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[31]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1195.
+
+Overfull \vbox (135.12671pt too high) detected at line 1212
+ []
+
+Package mdframed Info: Box was splittet wrong
+ starting loop to iterate the splitting point
+(mdframed)              on input line 1212.
+
+Overfull \vbox (136.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (137.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (138.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (139.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (140.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (141.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (142.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (143.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (144.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (145.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (146.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (147.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (148.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (149.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (150.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (151.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (152.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (153.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (154.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (155.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (156.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (157.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (158.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (159.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (160.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (161.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (162.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (163.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (164.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (165.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (166.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (167.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (168.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (169.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (170.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (171.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (172.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (173.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (174.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (175.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (176.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (177.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (178.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (179.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (180.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (181.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (182.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (183.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (184.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (185.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (186.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (187.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (188.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (189.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (190.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (191.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (192.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (193.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (194.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (195.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (196.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (197.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (198.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (199.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (200.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (201.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (202.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (203.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (204.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (205.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (206.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (207.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (208.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (209.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (210.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (211.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (212.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (213.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (214.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (215.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (216.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (217.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (218.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (219.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (220.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (221.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (222.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (223.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (224.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (225.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (226.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (227.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (228.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (229.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (230.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (231.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (232.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (233.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (234.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (235.12671pt too high) detected at line 1212
+ []
+
+
+Overfull \vbox (236.12671pt too high) detected at line 1212
+ []
+
+
+Package mdframed Warning: correct box splittet fails
+ It seems you are using a non splittable contents
+(mdframed)                 on input line 1212.
+
+Package mdframed Info: You first box width is to small
+ mdframed fixed it
+(mdframed)              on input line 1212.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[32]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1216.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[33]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1231.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1241.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[34]
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 1282.
+
+
+Package amsmath Warning: Cannot use `split' here;
+(amsmath)                trying to recover with `aligned' on input line 1293.
+
+Package epstopdf Info: Source file: <figures/equal/current_reg.eps>
+(epstopdf)                    date: 2020-02-02 08:11:54
+(epstopdf)                    size: 1548858 bytes
+(epstopdf)             Output file: <figures/equal/current_reg-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2020-02-02 08:31:18
+(epstopdf)                    size: 87317 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/equal/current_reg-eps-converted-to.pdf figures/equal/current_reg.eps>
+(epstopdf)             \includegraphics on input line 1304.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/equal/current_reg-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<figures/equal/current_reg-eps-converted-to.pdf, id=250, 421.575pt x 317.185pt>
+
+File: figures/equal/current_reg-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/equal/current_reg-eps-converted-to.pdf>
+Package pdftex.def Info: figures/equal/current_reg-eps-converted-to.pdf  used o
+n input line 1304.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1304--1306
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <figures/equal/rotor_flux_est_1.eps>
+(epstopdf)                    date: 2020-02-02 08:12:25
+(epstopdf)                    size: 1491190 bytes
+(epstopdf)             Output file: <figures/equal/rotor_flux_est_1-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2020-02-02 08:31:19
+(epstopdf)                    size: 76141 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/equal/rotor_flux_est_1-eps-converted-to.pdf figures/equal/rotor_flux_est_1.eps
+>
+(epstopdf)             \includegraphics on input line 1311.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/equal/rotor_flux_est_1-eps-convert
+ed-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> a
+llowed
+<figures/equal/rotor_flux_est_1-eps-converted-to.pdf, id=251, 421.575pt x 317.1
+85pt>
+File: figures/equal/rotor_flux_est_1-eps-converted-to.pdf Graphic file (type pd
+f)
+<use figures/equal/rotor_flux_est_1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/equal/rotor_flux_est_1-eps-converted-to.pdf  u
+sed on input line 1311.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1311--1313
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1313--1313
+\OT1/cmr/m/n/9 frame) and $(\OML/cmm/m/it/9 x; y\OT1/cmr/m/n/9 )$-(synchronous
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[35]
+Package epstopdf Info: Source file: <figures/equal/rotor_flux_est_2.eps>
+(epstopdf)                    date: 2020-02-02 08:12:42
+(epstopdf)                    size: 1430442 bytes
+(epstopdf)             Output file: <figures/equal/rotor_flux_est_2-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2020-02-02 08:31:20
+(epstopdf)                    size: 68024 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/equal/rotor_flux_est_2-eps-converted-to.pdf figures/equal/rotor_flux_est_2.eps
+>
+(epstopdf)             \includegraphics on input line 1325.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/equal/rotor_flux_est_2-eps-convert
+ed-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> a
+llowed
+<figures/equal/rotor_flux_est_2-eps-converted-to.pdf, id=255, 421.575pt x 317.1
+85pt>
+File: figures/equal/rotor_flux_est_2-eps-converted-to.pdf Graphic file (type pd
+f)
+<use figures/equal/rotor_flux_est_2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/equal/rotor_flux_est_2-eps-converted-to.pdf  u
+sed on input line 1325.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1325--1327
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 1327--1327
+[]\OT1/cmr/m/n/9 (a) |Es-ti-mated (dashed) and real
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 1327--1327
+\OT1/cmr/m/n/9 (solid) ro-tor flux in $(\OML/cmm/m/it/9 d; q\OT1/cmr/m/n/9 )$-(
+rotor
+ []
+
+Package epstopdf Info: Source file: <figures/equal/motor_voltage.eps>
+(epstopdf)                    date: 2020-02-02 08:32:14
+(epstopdf)                    size: 1474550 bytes
+(epstopdf)             Output file: <figures/equal/motor_voltage-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2020-02-02 08:32:22
+(epstopdf)                    size: 75408 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/equal/motor_voltage-eps-converted-to.pdf figures/equal/motor_voltage.eps>
+(epstopdf)             \includegraphics on input line 1332.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/equal/motor_voltage-eps-converted-
+to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allo
+wed
+<figures/equal/motor_voltage-eps-converted-to.pdf, id=256, 421.575pt x 317.185p
+t>
+File: figures/equal/motor_voltage-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/equal/motor_voltage-eps-converted-to.pdf>
+Package pdftex.def Info: figures/equal/motor_voltage-eps-converted-to.pdf  used
+ on input line 1332.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1332--1334
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <figures/under_est/current_reg.eps>
+(epstopdf)                    date: 2020-02-02 08:24:50
+(epstopdf)                    size: 1548622 bytes
+(epstopdf)             Output file: <figures/under_est/current_reg-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2020-02-02 08:50:53
+(epstopdf)                    size: 87869 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/under_est/current_reg-eps-converted-to.pdf figures/under_est/current_reg.eps>
+(epstopdf)             \includegraphics on input line 1348.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/under_est/current_reg-eps-converte
+d-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> al
+lowed
+<figures/under_est/current_reg-eps-converted-to.pdf, id=257, 421.575pt x 317.18
+5pt>
+File: figures/under_est/current_reg-eps-converted-to.pdf Graphic file (type pdf
+)
+<use figures/under_est/current_reg-eps-converted-to.pdf>
+Package pdftex.def Info: figures/under_est/current_reg-eps-converted-to.pdf  us
+ed on input line 1348.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1348--1350
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <figures/under_est/rotor_flux_est_1.eps>
+(epstopdf)                    date: 2020-02-02 08:25:19
+(epstopdf)                    size: 1493170 bytes
+(epstopdf)             Output file: <figures/under_est/rotor_flux_est_1-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2020-02-02 08:50:54
+(epstopdf)                    size: 76019 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/under_est/rotor_flux_est_1-eps-converted-to.pdf figures/under_est/rotor_flux_e
+st_1.eps>
+(epstopdf)             \includegraphics on input line 1355.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/under_est/rotor_flux_est_1-eps-con
+verted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
+5> allowed
+<figures/under_est/rotor_flux_est_1-eps-converted-to.pdf, id=258, 421.575pt x 3
+17.185pt>
+File: figures/under_est/rotor_flux_est_1-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use figures/under_est/rotor_flux_est_1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/under_est/rotor_flux_est_1-eps-converted-to.pd
+f  used on input line 1355.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1355--1357
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1357--1357
+\OT1/cmr/m/n/9 frame) and $(\OML/cmm/m/it/9 x; y\OT1/cmr/m/n/9 )$-(synchronous
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1357--1357
+\OT1/cmr/m/n/9 frame) co-or-di-nates - \OT1/cmr/m/it/9 under-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[36 <./figures/equal/current_reg-eps-converted-to.pdf> <./figures/equal/rotor_f
+lux_est_1-eps-converted-to.pdf> <./figures/equal/rotor_flux_est_2-eps-converted
+-to.pdf> <./figures/equal/motor_voltage-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/under_est/rotor_flux_est_2.eps>
+(epstopdf)                    date: 2020-02-02 08:25:34
+(epstopdf)                    size: 1438686 bytes
+(epstopdf)             Output file: <figures/under_est/rotor_flux_est_2-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2020-02-02 08:50:55
+(epstopdf)                    size: 68826 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/under_est/rotor_flux_est_2-eps-converted-to.pdf figures/under_est/rotor_flux_e
+st_2.eps>
+(epstopdf)             \includegraphics on input line 1369.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/under_est/rotor_flux_est_2-eps-con
+verted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
+5> allowed
+<figures/under_est/rotor_flux_est_2-eps-converted-to.pdf, id=294, 421.575pt x 3
+17.185pt>
+File: figures/under_est/rotor_flux_est_2-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use figures/under_est/rotor_flux_est_2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/under_est/rotor_flux_est_2-eps-converted-to.pd
+f  used on input line 1369.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1369--1371
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 1371--1371
+[]\OT1/cmr/m/n/9 (a) |Es-ti-mated (dashed) and real
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 1371--1371
+\OT1/cmr/m/n/9 (solid) ro-tor flux in $(\OML/cmm/m/it/9 d; q\OT1/cmr/m/n/9 )$-(
+rotor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1371--1371
+\OT1/cmr/m/n/9 frame) co-or-di-nates - \OT1/cmr/m/it/9 under-
+ []
+
+Package epstopdf Info: Source file: <figures/under_est/motor_voltage.eps>
+(epstopdf)                    date: 2020-02-02 08:25:05
+(epstopdf)                    size: 1472314 bytes
+(epstopdf)             Output file: <figures/under_est/motor_voltage-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2020-02-02 08:50:56
+(epstopdf)                    size: 75535 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/under_est/motor_voltage-eps-converted-to.pdf figures/under_est/motor_voltage.e
+ps>
+(epstopdf)             \includegraphics on input line 1376.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/under_est/motor_voltage-eps-conver
+ted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> 
+allowed
+<figures/under_est/motor_voltage-eps-converted-to.pdf, id=295, 421.575pt x 317.
+185pt>
+File: figures/under_est/motor_voltage-eps-converted-to.pdf Graphic file (type p
+df)
+<use figures/under_est/motor_voltage-eps-converted-to.pdf>
+Package pdftex.def Info: figures/under_est/motor_voltage-eps-converted-to.pdf  
+used on input line 1376.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1376--1378
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <figures/over_est/current_reg.eps>
+(epstopdf)                    date: 2020-02-02 08:22:50
+(epstopdf)                    size: 1541230 bytes
+(epstopdf)             Output file: <figures/over_est/current_reg-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2020-02-02 08:50:57
+(epstopdf)                    size: 87546 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/over_est/current_reg-eps-converted-to.pdf figures/over_est/current_reg.eps>
+(epstopdf)             \includegraphics on input line 1392.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/over_est/current_reg-eps-converted
+-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<figures/over_est/current_reg-eps-converted-to.pdf, id=296, 421.575pt x 317.185
+pt>
+File: figures/over_est/current_reg-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/over_est/current_reg-eps-converted-to.pdf>
+Package pdftex.def Info: figures/over_est/current_reg-eps-converted-to.pdf  use
+d on input line 1392.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1392--1394
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <figures/over_est/rotor_flux_est_1.eps>
+(epstopdf)                    date: 2020-02-02 08:22:23
+(epstopdf)                    size: 1474202 bytes
+(epstopdf)             Output file: <figures/over_est/rotor_flux_est_1-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2020-02-02 08:50:58
+(epstopdf)                    size: 74507 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/over_est/rotor_flux_est_1-eps-converted-to.pdf figures/over_est/rotor_flux_est
+_1.eps>
+(epstopdf)             \includegraphics on input line 1399.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/over_est/rotor_flux_est_1-eps-conv
+erted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
+> allowed
+<figures/over_est/rotor_flux_est_1-eps-converted-to.pdf, id=297, 421.575pt x 31
+7.185pt>
+File: figures/over_est/rotor_flux_est_1-eps-converted-to.pdf Graphic file (type
+ pdf)
+<use figures/over_est/rotor_flux_est_1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/over_est/rotor_flux_est_1-eps-converted-to.pdf
+  used on input line 1399.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1399--1401
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1401
+\OT1/cmr/m/n/9 frame) and $(\OML/cmm/m/it/9 x; y\OT1/cmr/m/n/9 )$-(synchronous
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[37 <./figures/under_est/current_reg-eps-converted-to.pdf> <./figures/under_est
+/rotor_flux_est_1-eps-converted-to.pdf> <./figures/under_est/rotor_flux_est_2-e
+ps-converted-to.pdf> <./figures/under_est/motor_voltage-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/over_est/rotor_flux_est_2.eps>
+(epstopdf)                    date: 2020-02-02 08:52:23
+(epstopdf)                    size: 1430094 bytes
+(epstopdf)             Output file: <figures/over_est/rotor_flux_est_2-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2020-02-02 08:52:29
+(epstopdf)                    size: 68062 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/over_est/rotor_flux_est_2-eps-converted-to.pdf figures/over_est/rotor_flux_est
+_2.eps>
+(epstopdf)             \includegraphics on input line 1413.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/over_est/rotor_flux_est_2-eps-conv
+erted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
+> allowed
+<figures/over_est/rotor_flux_est_2-eps-converted-to.pdf, id=335, 421.575pt x 31
+7.185pt>
+File: figures/over_est/rotor_flux_est_2-eps-converted-to.pdf Graphic file (type
+ pdf)
+<use figures/over_est/rotor_flux_est_2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/over_est/rotor_flux_est_2-eps-converted-to.pdf
+  used on input line 1413.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1413--1415
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 1415--1415
+[]\OT1/cmr/m/n/9 (a) |Es-ti-mated (dashed) and real
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 1415--1415
+\OT1/cmr/m/n/9 (solid) ro-tor flux in $(\OML/cmm/m/it/9 d; q\OT1/cmr/m/n/9 )$-(
+rotor
+ []
+
+Package epstopdf Info: Source file: <figures/over_est/motor_voltage.eps>
+(epstopdf)                    date: 2020-02-02 08:22:10
+(epstopdf)                    size: 1473910 bytes
+(epstopdf)             Output file: <figures/over_est/motor_voltage-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2020-02-02 08:51:00
+(epstopdf)                    size: 76362 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/over_est/motor_voltage-eps-converted-to.pdf figures/over_est/motor_voltage.eps
+>
+(epstopdf)             \includegraphics on input line 1420.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/over_est/motor_voltage-eps-convert
+ed-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> a
+llowed
+<figures/over_est/motor_voltage-eps-converted-to.pdf, id=336, 421.575pt x 317.1
+85pt>
+File: figures/over_est/motor_voltage-eps-converted-to.pdf Graphic file (type pd
+f)
+<use figures/over_est/motor_voltage-eps-converted-to.pdf>
+Package pdftex.def Info: figures/over_est/motor_voltage-eps-converted-to.pdf  u
+sed on input line 1420.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1420--1422
+ [][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[38 <./figures/over_est/current_reg-eps-converted-to.pdf> <./figures/over_est/r
+otor_flux_est_1-eps-converted-to.pdf> <./figures/over_est/rotor_flux_est_2-eps-
+converted-to.pdf> <./figures/over_est/motor_voltage-eps-converted-to.pdf>]
+Chapter 7.
+[39
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[40]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1480.
+Package mdframed Info: Not enough space on this page on input line 1500.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[41]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 1504.
+Package mdframed Info: Not enough space on this page on input line 1537.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[42]
+Package epstopdf Info: Source file: <figures/sim_results/hot_condition/rotor_fl
+ux_est_1.eps>
+(epstopdf)                    date: 2020-02-03 00:02:03
+(epstopdf)                    size: 1494314 bytes
+(epstopdf)             Output file: <figures/sim_results/hot_condition/rotor_fl
+ux_est_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-03 00:05:58
+(epstopdf)                    size: 79133 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/sim_results/hot_condition/rotor_flux_est_1-eps-converted-to.pdf figures/sim_re
+sults/hot_condition/rotor_flux_est_1.eps>
+(epstopdf)             \includegraphics on input line 1546.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/sim_results/hot_condition/rotor_fl
+ux_est_1-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at 
+most version <1.5> allowed
+<figures/sim_results/hot_condition/rotor_flux_est_1-eps-converted-to.pdf, id=38
+4, 421.575pt x 317.185pt>
+File: figures/sim_results/hot_condition/rotor_flux_est_1-eps-converted-to.pdf G
+raphic file (type pdf)
+<use figures/sim_results/hot_condition/rotor_flux_est_1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sim_results/hot_condition/rotor_flux_est_1-eps
+-converted-to.pdf  used on input line 1546.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1546--1548
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1548--1548
+\OT1/cmr/m/n/9 frame) and $(\OML/cmm/m/it/9 x; y\OT1/cmr/m/n/9 )$-(synchronous
+ []
+
+Package epstopdf Info: Source file: <figures/sim_results/hot_condition/rotor_fl
+ux_est_2.eps>
+(epstopdf)                    date: 2020-02-03 00:02:17
+(epstopdf)                    size: 1416642 bytes
+(epstopdf)             Output file: <figures/sim_results/hot_condition/rotor_fl
+ux_est_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-03 00:06:41
+(epstopdf)                    size: 70168 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/sim_results/hot_condition/rotor_flux_est_2-eps-converted-to.pdf figures/sim_re
+sults/hot_condition/rotor_flux_est_2.eps>
+(epstopdf)             \includegraphics on input line 1553.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/sim_results/hot_condition/rotor_fl
+ux_est_2-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at 
+most version <1.5> allowed
+<figures/sim_results/hot_condition/rotor_flux_est_2-eps-converted-to.pdf, id=38
+5, 421.575pt x 317.185pt>
+File: figures/sim_results/hot_condition/rotor_flux_est_2-eps-converted-to.pdf G
+raphic file (type pdf)
+<use figures/sim_results/hot_condition/rotor_flux_est_2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sim_results/hot_condition/rotor_flux_est_2-eps
+-converted-to.pdf  used on input line 1553.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1553--1555
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 1555--1555
+[]\OT1/cmr/m/n/9 (b) |Es-ti-mated (dashed) and real
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 1555--1555
+\OT1/cmr/m/n/9 (solid) ro-tor flux in $(\OML/cmm/m/it/9 d; q\OT1/cmr/m/n/9 )$-(
+rotor
+ []
+
+Package epstopdf Info: Source file: <figures/sim_results/hot_condition/motor_vo
+ltage.eps>
+(epstopdf)                    date: 2020-02-03 00:11:18
+(epstopdf)                    size: 1478022 bytes
+(epstopdf)             Output file: <figures/sim_results/hot_condition/motor_vo
+ltage-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-03 00:11:37
+(epstopdf)                    size: 76334 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/sim_results/hot_condition/motor_voltage-eps-converted-to.pdf figures/sim_resul
+ts/hot_condition/motor_voltage.eps>
+(epstopdf)             \includegraphics on input line 1567.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/sim_results/hot_condition/motor_vo
+ltage-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at mos
+t version <1.5> allowed
+<figures/sim_results/hot_condition/motor_voltage-eps-converted-to.pdf, id=386, 
+421.575pt x 317.185pt>
+File: figures/sim_results/hot_condition/motor_voltage-eps-converted-to.pdf Grap
+hic file (type pdf)
+<use figures/sim_results/hot_condition/motor_voltage-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sim_results/hot_condition/motor_voltage-eps-co
+nverted-to.pdf  used on input line 1567.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1567--1569
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <figures/sim_results/hot_condition/current_
+reg.eps>
+(epstopdf)                    date: 2020-02-03 00:01:47
+(epstopdf)                    size: 1556658 bytes
+(epstopdf)             Output file: <figures/sim_results/hot_condition/current_
+reg-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-03 00:17:51
+(epstopdf)                    size: 89448 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/sim_results/hot_condition/current_reg-eps-converted-to.pdf figures/sim_results
+/hot_condition/current_reg.eps>
+(epstopdf)             \includegraphics on input line 1574.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/sim_results/hot_condition/current_
+reg-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most 
+version <1.5> allowed
+<figures/sim_results/hot_condition/current_reg-eps-converted-to.pdf, id=387, 42
+1.575pt x 317.185pt>
+File: figures/sim_results/hot_condition/current_reg-eps-converted-to.pdf Graphi
+c file (type pdf)
+<use figures/sim_results/hot_condition/current_reg-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sim_results/hot_condition/current_reg-eps-conv
+erted-to.pdf  used on input line 1574.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1574--1576
+ [][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[43 <./figures/sim_results/hot_condition/rotor_flux_est_1-eps-converted-to.pdf>
+ <./figures/sim_results/hot_condition/rotor_flux_est_2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/sim_results/hot_condition/alpha_es
+t.eps>
+(epstopdf)                    date: 2020-02-03 00:01:19
+(epstopdf)                    size: 1272186 bytes
+(epstopdf)             Output file: <figures/sim_results/hot_condition/alpha_es
+t-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-03 00:17:52
+(epstopdf)                    size: 37176 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/sim_results/hot_condition/alpha_est-eps-converted-to.pdf figures/sim_results/h
+ot_condition/alpha_est.eps>
+(epstopdf)             \includegraphics on input line 1588.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/sim_results/hot_condition/alpha_es
+t-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<figures/sim_results/hot_condition/alpha_est-eps-converted-to.pdf, id=408, 421.
+575pt x 317.185pt>
+File: figures/sim_results/hot_condition/alpha_est-eps-converted-to.pdf Graphic 
+file (type pdf)
+<use figures/sim_results/hot_condition/alpha_est-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sim_results/hot_condition/alpha_est-eps-conver
+ted-to.pdf  used on input line 1588.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1588--1590
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <figures/sim_results/hot_condition/current_
+obs.eps>
+(epstopdf)                    date: 2020-02-03 00:01:32
+(epstopdf)                    size: 1505810 bytes
+(epstopdf)             Output file: <figures/sim_results/hot_condition/current_
+obs-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-03 00:17:53
+(epstopdf)                    size: 89033 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/sim_results/hot_condition/current_obs-eps-converted-to.pdf figures/sim_results
+/hot_condition/current_obs.eps>
+(epstopdf)             \includegraphics on input line 1595.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/sim_results/hot_condition/current_
+obs-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most 
+version <1.5> allowed
+<figures/sim_results/hot_condition/current_obs-eps-converted-to.pdf, id=409, 42
+1.575pt x 317.185pt>
+File: figures/sim_results/hot_condition/current_obs-eps-converted-to.pdf Graphi
+c file (type pdf)
+<use figures/sim_results/hot_condition/current_obs-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sim_results/hot_condition/current_obs-eps-conv
+erted-to.pdf  used on input line 1595.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1595--1597
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <figures/sim_results/cold_condition/rotor_f
+lux_est_1.eps>
+(epstopdf)                    date: 2020-02-02 23:59:33
+(epstopdf)                    size: 1488730 bytes
+(epstopdf)             Output file: <figures/sim_results/cold_condition/rotor_f
+lux_est_1-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-03 00:20:29
+(epstopdf)                    size: 77613 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/sim_results/cold_condition/rotor_flux_est_1-eps-converted-to.pdf figures/sim_r
+esults/cold_condition/rotor_flux_est_1.eps>
+(epstopdf)             \includegraphics on input line 1611.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/sim_results/cold_condition/rotor_f
+lux_est_1-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at
+ most version <1.5> allowed
+<figures/sim_results/cold_condition/rotor_flux_est_1-eps-converted-to.pdf, id=4
+10, 421.575pt x 317.185pt>
+File: figures/sim_results/cold_condition/rotor_flux_est_1-eps-converted-to.pdf 
+Graphic file (type pdf)
+<use figures/sim_results/cold_condition/rotor_flux_est_1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sim_results/cold_condition/rotor_flux_est_1-ep
+s-converted-to.pdf  used on input line 1611.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1611--1613
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1613
+\OT1/cmr/m/n/9 frame) and $(\OML/cmm/m/it/9 x; y\OT1/cmr/m/n/9 )$-(synchronous
+ []
+
+Package epstopdf Info: Source file: <figures/sim_results/cold_condition/rotor_f
+lux_est_2.eps>
+(epstopdf)                    date: 2020-02-02 23:59:44
+(epstopdf)                    size: 1411822 bytes
+(epstopdf)             Output file: <figures/sim_results/cold_condition/rotor_f
+lux_est_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-03 00:20:30
+(epstopdf)                    size: 68265 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/sim_results/cold_condition/rotor_flux_est_2-eps-converted-to.pdf figures/sim_r
+esults/cold_condition/rotor_flux_est_2.eps>
+(epstopdf)             \includegraphics on input line 1618.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/sim_results/cold_condition/rotor_f
+lux_est_2-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at
+ most version <1.5> allowed
+<figures/sim_results/cold_condition/rotor_flux_est_2-eps-converted-to.pdf, id=4
+11, 421.575pt x 317.185pt>
+File: figures/sim_results/cold_condition/rotor_flux_est_2-eps-converted-to.pdf 
+Graphic file (type pdf)
+<use figures/sim_results/cold_condition/rotor_flux_est_2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sim_results/cold_condition/rotor_flux_est_2-ep
+s-converted-to.pdf  used on input line 1618.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1618--1620
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 1620--1620
+[]\OT1/cmr/m/n/9 (b) |Es-ti-mated (dashed) and real
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 1620--1620
+\OT1/cmr/m/n/9 (solid) ro-tor flux in $(\OML/cmm/m/it/9 d; q\OT1/cmr/m/n/9 )$-(
+rotor
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[44 <./figures/sim_results/hot_condition/motor_voltage-eps-converted-to.pdf> <.
+/figures/sim_results/hot_condition/current_reg-eps-converted-to.pdf> <./figures
+/sim_results/hot_condition/alpha_est-eps-converted-to.pdf> <./figures/sim_resul
+ts/hot_condition/current_obs-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/sim_results/cold_condition/motor_v
+oltage.eps>
+(epstopdf)                    date: 2020-02-03 00:10:42
+(epstopdf)                    size: 1477286 bytes
+(epstopdf)             Output file: <figures/sim_results/cold_condition/motor_v
+oltage-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-03 00:20:31
+(epstopdf)                    size: 75829 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/sim_results/cold_condition/motor_voltage-eps-converted-to.pdf figures/sim_resu
+lts/cold_condition/motor_voltage.eps>
+(epstopdf)             \includegraphics on input line 1632.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/sim_results/cold_condition/motor_v
+oltage-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at mo
+st version <1.5> allowed
+<figures/sim_results/cold_condition/motor_voltage-eps-converted-to.pdf, id=447,
+ 421.575pt x 317.185pt>
+File: figures/sim_results/cold_condition/motor_voltage-eps-converted-to.pdf Gra
+phic file (type pdf)
+<use figures/sim_results/cold_condition/motor_voltage-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sim_results/cold_condition/motor_voltage-eps-c
+onverted-to.pdf  used on input line 1632.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1632--1634
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <figures/sim_results/cold_condition/current
+_reg.eps>
+(epstopdf)                    date: 2020-02-02 23:59:16
+(epstopdf)                    size: 1557678 bytes
+(epstopdf)             Output file: <figures/sim_results/cold_condition/current
+_reg-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-03 00:20:32
+(epstopdf)                    size: 89279 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/sim_results/cold_condition/current_reg-eps-converted-to.pdf figures/sim_result
+s/cold_condition/current_reg.eps>
+(epstopdf)             \includegraphics on input line 1639.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/sim_results/cold_condition/current
+_reg-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most
+ version <1.5> allowed
+<figures/sim_results/cold_condition/current_reg-eps-converted-to.pdf, id=448, 4
+21.575pt x 317.185pt>
+File: figures/sim_results/cold_condition/current_reg-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use figures/sim_results/cold_condition/current_reg-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sim_results/cold_condition/current_reg-eps-con
+verted-to.pdf  used on input line 1639.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1639--1641
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <figures/sim_results/cold_condition/alpha_e
+st.eps>
+(epstopdf)                    date: 2020-02-02 23:58:49
+(epstopdf)                    size: 1275338 bytes
+(epstopdf)             Output file: <figures/sim_results/cold_condition/alpha_e
+st-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-03 00:20:33
+(epstopdf)                    size: 37053 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/sim_results/cold_condition/alpha_est-eps-converted-to.pdf figures/sim_results/
+cold_condition/alpha_est.eps>
+(epstopdf)             \includegraphics on input line 1653.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/sim_results/cold_condition/alpha_e
+st-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most v
+ersion <1.5> allowed
+<figures/sim_results/cold_condition/alpha_est-eps-converted-to.pdf, id=449, 421
+.575pt x 317.185pt>
+File: figures/sim_results/cold_condition/alpha_est-eps-converted-to.pdf Graphic
+ file (type pdf)
+<use figures/sim_results/cold_condition/alpha_est-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sim_results/cold_condition/alpha_est-eps-conve
+rted-to.pdf  used on input line 1653.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1653--1655
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <figures/sim_results/cold_condition/current
+_obs.eps>
+(epstopdf)                    date: 2020-02-02 23:59:01
+(epstopdf)                    size: 1504450 bytes
+(epstopdf)             Output file: <figures/sim_results/cold_condition/current
+_obs-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-03 00:20:34
+(epstopdf)                    size: 88757 bytes
+(epstopdf)             Command: <miktex-epstopdf-unrestricted --outfile=figures
+/sim_results/cold_condition/current_obs-eps-converted-to.pdf figures/sim_result
+s/cold_condition/current_obs.eps>
+(epstopdf)             \includegraphics on input line 1660.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/sim_results/cold_condition/current
+_obs-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most
+ version <1.5> allowed
+<figures/sim_results/cold_condition/current_obs-eps-converted-to.pdf, id=450, 4
+21.575pt x 317.185pt>
+File: figures/sim_results/cold_condition/current_obs-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use figures/sim_results/cold_condition/current_obs-eps-converted-to.pdf>
+Package pdftex.def Info: figures/sim_results/cold_condition/current_obs-eps-con
+verted-to.pdf  used on input line 1660.
+(pdftex.def)             Requested size: 240.0pt x 180.57468pt.
+
+Overfull \hbox (13.51605pt too wide) in paragraph at lines 1660--1662
+ [][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[45 <./figures/sim_results/cold_condition/rotor_flux_est_1-eps-converted-to.pdf
+> <./figures/sim_results/cold_condition/rotor_flux_est_2-eps-converted-to.pdf> 
+<./figures/sim_results/cold_condition/motor_voltage-eps-converted-to.pdf> <./fi
+gures/sim_results/cold_condition/current_reg-eps-converted-to.pdf>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[46 <./figures/sim_results/cold_condition/alpha_est-eps-converted-to.pdf> <./fi
+gures/sim_results/cold_condition/current_obs-eps-converted-to.pdf>]
+Chapter 8.
+[47
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[48] [49
+
+] (im_model_and_ctrl.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 44633 strings out of 475389
+ 1133149 string characters out of 2775078
+ 1657983 words of memory out of 3000000
+ 65221 multiletter control sequences out of 15000+600000
+ 498420 words of font info for 141 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 100i,22n,104p,978b,1164s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\dbagn\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm1095.pk> <C:\Users\dbagn\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
+ec/dpi600\tcrm0600.pk> <C:\Users\dbagn\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
+/jknappen/ec/dpi600\tcrm0800.pk><C:/Users/dbagn/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/dbagn/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/dbagn/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users
+/dbagn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.
+pfb><C:/Users/dbagn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cmextra/cmex9.pfb><C:/Users/dbagn/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb><C:/Users/dbagn/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/dbagn/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/dbagn/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/User
+s/dbagn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.
+pfb><C:/Users/dbagn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi9.pfb><C:/Users/dbagn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmmib10.pfb><C:/Users/dbagn/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/dbagn/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/dbagn/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/dbag
+n/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:
+/Users/dbagn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr9.pfb><C:/Users/dbagn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsl10.pfb><C:/Users/dbagn/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dbagn/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/dbagn/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/dbagn/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/User
+s/dbagn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.
+pfb><C:/Users/dbagn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmtt10.pfb>
+Output written on im_model_and_ctrl.pdf (49 pages, 2330909 bytes).
+PDF statistics:
+ 633 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 173 words of extra memory for PDF output out of 10000 (max. 10000000)
+
